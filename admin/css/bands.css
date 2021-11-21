@@ -1,0 +1,59 @@
+.editor .tree {
+	width: 100%;
+	max-width: 800px;
+}
+.editor [name^=link] {
+	font-size: 0.7em;
+}
+
+.editor [name=description] {
+	height: 100px;
+}
+
+.editor td:first-child {
+	font-size: 0.8em;
+}
+
+.editor img[name=image] {
+	width: 100%;
+}
+
+.editor img[name='image strip'] {
+	max-height: 300px;
+}
+
+.members {
+	text-align: center;
+}
+
+.members input {
+	float: left;
+	width: 42%;
+	font-size: 15px;
+}
+
+.delete-btn {
+	margin-left: 5px;
+	float: left;
+	display: inline-block;
+	text-transform: none;
+	cursor: pointer;
+	color: #707070;
+	background-color: #323232;
+	padding: 2px 5px 5px;
+	border-radius: 100%;
+}
+
+.member-add {
+	margin-top: 10px;
+	width: auto;
+	font-size: 15px;
+}
+
+.member-add:hover {
+	background-color: green !important;
+}
+
+.delete-btn:hover {
+	color: white;
+}

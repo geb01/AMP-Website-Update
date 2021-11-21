@@ -1,0 +1,46 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+				<meta charset='utf-8'>
+		<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+		<!--<meta name='viewport' content='maximum-scale=0.5, initial-scale=1'>-->
+		<meta name='viewport' content='maximum-scale=1, initial-scale=1'>
+		<meta property="og:image" content="/images/icons/logo-black.png">
+		<meta property="og:title" content="Ateneo Musicians' Pool">
+		<meta property="og:description" content="The Ateneo Musicians’ Pool is the premier music organization of Ateneo. Originally formed for the fair treatment of Ateneo bands, it has grown into an organization which hones the skills of its members in music and other related aspects such as music production and events management. Through our member development and different projects and events, we aim to show that music is an essential part of the human experience.">
+		<link rel="shortcut icon" href="/images/icons/logo.ico" type="image/x-icon">
+		<link rel="icon" href="/images/icons/logo.ico" type="image/x-icon">
+					<link rel='stylesheet' type='text/css' href='css/global.css?ver=2.1'>
+							<link rel='stylesheet' type='text/css' href='css/header.css?ver=2.1'>
+									<script src='js/jquery-2.1.4.min.js?ver=2.1'></script>
+							<script src='js/global.js?ver=2.1'></script>
+					<meta name="google-site-verification" content="-CgO_A5vd99txcEHdkVG2B9TALekowaM2SY5CCiSZAI">
+					<link rel='stylesheet' type='text/css' href='css/index.css?ver=2.1'>
+							<link rel='stylesheet' type='text/css' href='css/slideshow.css?ver=2.1'>
+				<title>Ateneo Musicians' Pool | Official Website</title>
+	</head>
+	<body id='fullscreen'>
+						<base href='/'>
+		<header>
+			<div class='menu-button'></div>
+			<div id='menu' class='hidden'></div>
+			<div id='menu-label'>Home</div>
+			<a class='amp-logo' href='/index.php' title='Home'></a>
+			<div id='search-bar'>
+				<input type='text' placeholder='Search'></input>
+			</div>
+			<base href=''>
+			<div id='widget-container'></div>
+			<base href='/'>
+		</header>
+			<div id='container'>
+			<section>
+				<div class='slideshow'>
+										<div class='slider'></div>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

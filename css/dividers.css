@@ -1,0 +1,123 @@
+#fullscreen #container {
+	min-width: auto !important;
+}
+
+#fullscreen #container > *:not(.divider-container):not(#back-to-top) {
+	min-width: 800px !important;
+}
+
+.divider-container {
+	background-color: none;
+
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-items: stretch;
+
+	display: flex;
+	align-items: stretch;
+
+	position: relative;
+	overflow-x: hidden;
+
+	width: 100%;
+}
+
+.divider {
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-content: center;
+
+	display: flex;
+	align-content: center;
+
+	overflow: hidden;
+	z-index: 1;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+
+	-webkit-transition: -webkit-transform 0.3s linear;
+	-ms-transition: -ms-transform 0.3s linear;
+	transition: transform 0.3s linear;
+
+	text-transform: uppercase;
+
+	min-width: 200px;
+	cursor: default;
+}
+
+.divider:not([src]) {
+	background-color: #323232;
+}
+
+.divider:hover {
+	-webkit-transform: scale(1.03);
+	-ms-transform: scale(1.03);
+	transform: scale(1.03);
+
+	-webkit-transition: -webkit-transform 0.1s linear;
+	-ms-transition: -ms-transform 0.1s linear;
+	transition: transform 0.1s linear;
+
+	z-index: 2;
+}
+
+.divider p {
+	margin: auto;
+	text-align: center;
+	font-size: 130%;
+
+	text-shadow: 0 0 0.2em black;
+	word-wrap: break-word;
+
+	text-overflow: clip;
+
+	-webkit-transform-origin: 20% center;
+	-ms-transform-origin: 20% center;
+	transform-origin: 20% center;
+}
+
+.divider-container .scroller {
+	position: absolute;
+	top: 0; bottom: 0;
+	margin: auto 0;
+
+	z-index: 11;
+	opacity: 0.8;
+
+	cursor: pointer;
+}
+
+.divider-container .scroller:hover {
+	opacity: 1;
+}
+
+.divider-container .left.scroller {
+	border-top-width: 50px;
+	border-bottom-width: 50px;
+	border-right-width: 50px;
+	border-right-color: white;
+}
+
+.divider-container .right.scroller {
+	border-top-width: 50px;
+	border-bottom-width: 50px;
+	border-left-width: 50px;
+	border-left-color: white;
+}
+
+.divider-container .shadow {
+	background-color: black;
+	position: absolute;
+
+	width: 1px;
+	height: 100%;
+
+	box-shadow: 0 0 3em 1em black;
+	z-index: 3;
+}

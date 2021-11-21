@@ -1,0 +1,123 @@
+#widget-container {
+	display: none;
+}
+
+.divider {
+	filter: grayscale(100%);
+}
+
+.divider:hover {
+	filter: grayscale(0%);
+}
+
+#single-role .divider:first-child {
+	cursor: pointer;
+	filter: grayscale(0%) !important;
+	width: 40% !important;
+}
+
+#single-role .divider:first-child:hover {
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+}
+
+#single-role .divider:nth-child(2) {
+	width: 20% !important;
+}
+
+#single-role .divider:nth-child(3) {
+	pointer-events: none;
+	filter: grayscale(100%) !important;
+	width: 40% !important;
+}
+
+#single-role .right.scroller {
+	display: none !important;
+}
+
+#single-role .left.scroller.arrow {
+	display: inline-block !important;
+}
+
+#container > .wrapper {
+	/*position: relative;*/
+	margin: 0 auto;
+}
+
+#role-wrapper {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	position: absolute;
+	background-color: #646464;
+	height: 100%;
+	padding: 100px 0 20px;
+	left: 0; right: 0;
+	margin: auto;
+	width: 30%;
+	min-width: 300px;
+	list-style: none;
+	text-align: center;
+	z-index: 10;
+}
+
+#role-list {
+	height: 100%;
+	overflow-y: auto;
+	list-style: none;
+}
+
+#role-list li {
+	/*position: relative;*/
+}
+
+#role-list li.active .role-name,
+#role-list li .role-name:hover {
+	background-color: #303030;
+}
+
+.role-name {
+	line-height: 1;
+	font-family: LeagueSpartan;
+	font-size: 0.8em;
+	padding: 20px;
+	cursor: pointer;
+}
+
+.role-info {
+	display: none;
+}
+
+.role-info > * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 10px;
+	font-size: 1em;
+}
+
+#role-list li.active .role-info {
+	display: block !important;
+	position: fixed;
+	background-color: #303030;
+	top: 100px;
+	right: 0;
+	width: 35%;
+	/*height: 400px;*/
+	text-align: left;
+}
+
+@media (max-width: 800px) {
+	#role-wrapper {
+		padding-bottom: 100px;
+	}
+	#role-list li.active .role-info {
+		top: auto;
+		right: auto;
+		left: 0;
+		bottom: 0;
+		width: auto;
+		font-size: 0.8em;
+	}
+}

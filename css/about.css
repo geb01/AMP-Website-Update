@@ -1,0 +1,391 @@
+.about {
+	height: auto;
+	width: auto;
+
+	margin: auto;
+
+	text-align: left;
+	/*text-shadow: 0 0 1.5em black;*/
+
+	cursor: default;
+}
+
+.about h1 {
+	font-family: LeagueSpartan, Verdana;
+	font-size: 2em;
+	text-align: center;
+}
+
+.about p {
+	font-family: DrescherGrotesque, Verdana;
+	font-size: 0.8em;
+	text-align: center;
+}
+
+.about b {
+	color: #FF0068;
+	text-transform: uppercase;
+}
+
+.about .wrapper {
+	padding: 0 40px;
+	text-align: left;
+	max-width: 800px;
+}
+
+#mission-vision {
+	margin-top: 60px;
+}
+
+#mission-vision > .wrapper {
+	position: relative;
+
+	display: -webkit-flex;
+	-webkit-align-items: stretch;
+	-webkit-flex-flow: row nowrap;
+	
+	display: flex;
+	align-items: stretch;
+	flex-flow: row nowrap;
+}
+
+#mission {
+	margin-right: 20px;
+}
+
+#vision {
+	margin-left: 20px;
+}
+
+#mission, #vision {
+	width: 50%;
+	padding: 10px 20px;
+
+	background-color: #363636;
+}
+
+#mission-vision p {
+	margin-bottom: 10px;
+}
+
+#mission h1 {
+	text-align: right;
+}
+
+#vision h1 {
+	text-align: left;
+}
+
+#mission p {
+	font-size: 13px;
+}
+
+#vision p {
+	font-size: 16px;
+	height: 100%;
+}
+
+#mission-vision p {
+	text-align: justify;
+}
+
+.transition {
+	height: auto;
+	min-height: 105px;
+	-webkit-align-items: flex-end;
+	-webkit-flex-flow: column nowrap;
+
+	align-items: flex-end;
+	flex-flow: column nowrap;
+
+	/* box-shadow: 0 0 3em #FF0068; */
+	background-color: transparent;
+}
+
+.transition img {
+	margin: auto;
+}
+
+.transition .wrapper {
+	display: block;
+	margin-top: auto;
+	margin-bottom: auto;
+	position: relative;
+}
+
+.transition h1 {
+	display: inline;
+	text-transform: uppercase;
+	transition: 0.5s ease;
+	-moz-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+#executive-board {
+	padding-top: 85px;
+}
+
+/* for sliding effect when scrolled near the logo */
+#departments h1.sliding {
+	margin-left: 330px;
+	transition: 0.5s ease;
+	-moz-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+.transition p {
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 50%;
+	min-width: 300px;
+	max-width: 90%;
+	
+	font-size: 0.8em;
+	text-align: justify;
+
+	background-color: #646464;
+}
+
+.feature {
+	display: -webkit-flex;
+	-webkit-align-items: flex-end;
+	-webkit-flex-flow: row nowrap;
+
+	display: flex;
+	align-items: flex-end;
+	flex-flow: row nowrap;
+	width: 100%;
+
+	height: -moz-calc(100% - 105px);
+	height: -webkit-calc(100% - 105px);
+	height: -o-calc(100% - 105px);
+	height: calc(100% - 105px);
+	min-height: auto;
+
+	/*box-shadow: 0 0 5em black;*/
+}
+
+.feature > div {	
+	width: 50%;
+	height: 100%;
+	/*
+	height: -moz-calc(100% - 105px);
+	height: -webkit-calc(100% - 105px);
+	height: -o-calc(100% - 105px);
+	height: calc(100% - 105px);
+	*/
+}
+
+.feature-labels > * {
+	display: -webkit-flex;
+	-webkit-align-items: stretch;
+	-webkit-flex-flow: row nowrap;
+
+	display: flex;
+	align-items: stretch;
+	flex-flow: row nowrap;
+
+	font-family: LeagueSpartan, Verdana;
+	text-transform: uppercase;
+
+	font-size: 1.2em;
+	height: 100%;
+
+	cursor: pointer;
+
+	/*
+	-webkit-transition: background-color 0.50s ease-out;
+	-ms-transition: background-color 0.50s ease-out;
+	transition: background-color 0.50s ease-out;
+	*/
+}
+
+.feature-labels, .feature-labels > * {
+	position: relative;
+}
+
+.feature-labels .arrow {
+	position: absolute;
+	top: 0; bottom: 0;
+	right: 10px;
+	margin: auto;
+}
+
+.feature-labels {
+	display: -webkit-flex;
+	-webkit-align-items: stretch;
+	-webkit-flex-flow: column nowrap;
+
+	display: flex;
+	align-items: stretch;
+	flex-flow: column nowrap;
+}
+
+.feature-wrapper {
+	position: relative;
+	background-color: #646464;
+
+	height: 100%;
+	width: 50%;
+}
+
+.feature-display {
+	position: absolute;
+	height: 100%;
+	width: 100%
+}
+
+.feature-pic {
+	position: absolute;
+	top: 0; left: 0;
+
+	width: 100%;
+	object-fit: cover;
+	object-position: 0 30%;
+
+	z-index: 0;
+}
+
+.feature-description {
+	position: absolute;
+	width: 100%;
+
+	text-align: left;
+	word-break: normal;
+	font-family: DrescherGrotesque, Verdana;
+
+	z-index: 1;
+	background-color: #646464;
+
+	bottom: 0; /* anchor if first load */
+	overflow: visible;
+}
+
+.feature-description > * {
+	padding: 10px;
+	overflow: visible;
+}
+
+.feature-description h1, .feature-description h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+.feature-description h1 {
+	font-size: 1.45em;
+}
+
+.feature-description h2 {
+	font-size: 0.95em;
+	color: #7F7F7F;
+	margin-bottom: 5px;
+}
+
+.feature-description p {
+	font-size: 0.6em;
+	font-weight: normal;
+}
+
+.feature-description p:last-child {
+	margin-bottom: 10px;
+}
+
+
+.feature-display, .feature-labels .arrow {
+	opacity: 0;
+	z-index: 1;
+
+	-webkit-transition: opacity 0.3s linear;
+	-ms-transition: opacity 0.3s linear;
+	transition: opacity 0.3s linear;
+}
+
+.feature-display.selected, .feature-labels > .selected .arrow {
+	opacity: 1;
+	z-index: 2;
+
+	-webkit-transition: opacity 0.3s linear;
+	-ms-transition: opacity 0.3s linear;
+	transition: opacity 0.3s linear;
+}
+
+.feature-labels .label {
+	margin: auto;
+	padding-top: 10px;
+}
+
+.feature-labels > *:nth-child(even) {
+	background-color: #C92771;
+}
+
+.feature-labels > *:nth-child(odd) {
+	background-color: #E2397E;
+}
+
+.feature-labels > *:hover {
+	background-color: #990058;
+	/*
+	-webkit-transition: background-color 0.15s linear;
+	-ms-transition: background-color 0.15s linear;
+	transition: background-color 0.15s linear;
+	*/
+}
+
+.dropdown-button > .arrow {
+	margin-left: 20px;
+}
+
+.dropdown-button {
+	cursor: pointer;
+}
+
+@media all and (orientation: portrait) {
+	.feature {
+		max-height: 500px;
+	}
+	section.amp-bg {
+		max-height: 100%;
+		display: none;
+	}
+	html, body {
+		background-color: #323232;
+	}
+	#container {
+		padding-top: 200px;
+	}
+	#description, .about {
+		height: auto !important;
+		max-height: auto !important;
+	}
+	#mission, #vision {
+		background-color: transparent;
+	}
+	#mission-vision > .wrapper {
+		-webkit-flex-flow: column nowrap;
+		-webkit-align-items: center;
+		flex-flow: column nowrap;
+		align-items: center;
+	}
+	#mission-vision h1 {
+		text-align: center;
+	}
+	#mission, #vision {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	#vision {
+		padding-top: 30px;
+	}
+	.feature-labels {
+		font-size: 0.5em;
+	}
+	.feature-description {
+		font-size: 0.8em;
+	}
+	#departments .sliding {
+		margin-left: 0 !important;
+		color: #646464;
+	}
+}

@@ -1,0 +1,23 @@
+.editor .tree {
+	width: 100%;
+	max-width: 800px;
+}
+.editor .node,
+.editor .add {
+	border: 1px solid gray;
+}
+.editor .img {
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+}
+.editor .node:hover {
+	background-color: #FF0068;
+}
+.editor .legend {
+	text-transform: none;
+}
+.editor textarea {
+	min-height: 30px;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "label":"home",
+        "href":"\/",
+        "active":true,
+        "open new tab":false
+    },
+    {
+        "label":"about",
+        "href":"/about.php",
+        "active":true,
+        "open new tab":false
+    },
+    {
+        "label":"Artists",
+        "href":"/artists.php",
+        "active":true,
+        "open new tab":false
+    },
+    {
+        "label":"tube",
+        "href":"https://tube.ateneomusicianspool.com",
+        "active":true,
+        "open new tab":false
+    },
+    {
+        "label":"Amplugged",
+        "href":"https://www.youtube.com/channel/UCB5siGRAwfqbcOzP4ZrTK2w/",
+        "active":true,
+        "open new tab":true
+    }
+]

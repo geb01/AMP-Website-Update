@@ -1,0 +1,131 @@
+.editor {
+	position: relative;
+	margin: 20px;
+}
+
+.editor .add {
+	text-align: center;
+	cursor: pointer;
+}
+
+.editor .add:hover {
+	background-color: #092;
+}
+
+/* Editor Tree Root */
+.context-editor > .tree {
+	border: 1px solid gray;
+	min-width: 300px;
+	display: inline-block;
+
+	font-size: 1.1em;
+	color: white;
+}
+
+.context-editor .tree .node {
+	position: relative;
+}
+
+/* Editor Subtrees */
+.context-editor .node > .tree {
+	margin-left: 10px;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.context-editor .tree .node > .legend {
+	display: block;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+
+.context-editor .tree .node > .legend * {
+	line-height: 1;
+}
+
+.context-editor .tree .node > .legend.pad {
+	line-height: 2.39;
+	text-indent: 20px;
+}
+
+.context-editor .add {
+	display: block;
+	margin: 0;
+	padding: 0;
+	line-height: 239%;
+}
+
+.context-editor .tree .node > .legend:hover{
+	background-color: #FF0068;
+	color: white;
+}
+
+.context-editor .tree .node > .legend > .menu-button {
+	background-position: 3px 3px;
+	height: 25px;
+	margin: 0.4em 20px;
+	padding: 3px;
+	
+	border-radius: 3px;
+	float: right;
+	border: 1px solid transparent;
+
+	cursor: pointer;
+}
+
+.context-editor .tree .node > .legend > .menu-button:hover,
+.context-editor .tree .node > .legend > .menu-button.selected {
+	border: 1px solid white;
+	background-color: blue;
+}
+
+.fieldset-editor {
+	padding: 10px 20px;
+}
+
+.fieldset-editor:not(:first-child) {
+	margin-top: 25px;
+}
+
+.fieldset-editor td:first-child {
+	text-align: right;
+	width: 20%;
+}
+
+.fieldset-editor td:first-child::after {
+	content: ":";
+}
+
+.fieldset-table {
+	width: 90%;
+}
+
+.fieldset-editor textarea {
+	min-height: 70px;
+	font-size: 0.5em;
+}
+
+.fieldset-editor input,
+.fieldset-editor textarea {
+	width: 100%;
+	padding: 5px;
+}
+
+#dummy.node {
+	display: none;
+}
+
+.img-upload-btn {
+	float: left;
+	width: auto !important;
+	height: auto;
+	font-size: 12px;
+	cursor: pointer;
+	position: absolute;
+}
+
+.bg-editor .img {
+	width: 100%;
+	max-width: 800px;
+}

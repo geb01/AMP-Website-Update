@@ -1,0 +1,65 @@
+#eb-editor .tree,
+#dep-editor .tree {
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-align-items: stretch;
+	align-items: stretch;
+	border: none !important;
+	background-color: inherit;
+}
+#eb-editor .node,
+#eb-editor .add,
+#dep-editor .node,
+#dep-editor .add {
+	border: 1px solid gray;
+}
+#eb-editor .legend,
+#eb-editor .add,
+#dep-editor .legend,
+#dep-editor .add {
+	width: 350px;
+}
+#eb-editor .img, 
+#dep-editor .img {
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+}
+#eb-editor .node:hover,
+#dep-editor .node:hover {
+	background-color: #FF0068;
+}
+#eb-editor .legend,
+#dep-editor .legend {
+	text-transform: none;
+}
+#eb-editor .member-wrapper {
+	padding: 10px;
+}
+#eb-editor [name=position],
+#eb-editor .member-wrapper > *,
+#dep-editor span {
+	display: block;
+	padding: 5px;
+}
+#eb-editor [name=description],
+#dep-editor [name=description] {
+	display: block;
+	padding: 5px;
+	font-size: 0.6em;
+}
+#eb-editor [name=member-year]::after {
+	content: " (enrollment year)";
+	font-size: 0.6em;
+}
+#dep-editor [name=officers] {
+	font-size: 0.8em;
+}
+#eb-editor *::before,
+#eb-editor *::after {
+	color: gray;
+}
+

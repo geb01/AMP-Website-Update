@@ -1,0 +1,134 @@
+#dashboard {
+	margin-left: 20px;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	overflow: hidden;
+
+	width: 200px;
+	right: 230px;
+	margin-left: -100%;
+
+	background-color: #363636;
+}
+
+#dashboard dl {
+	display: block;
+	width: 100%;
+}
+
+#dashboard dd {
+	background-color: #242424;
+}
+
+#dashboard dd dd {
+	background-color: #121212;
+}
+
+#dashboard dl {
+	background-color: inherit;
+	padding-left: 10px;
+}
+
+#dashboard dt {
+	margin-left: -10px;
+	padding-left: 10px;
+	line-height: 239%;
+
+	cursor: pointer;
+}
+
+#dashboard dt > a {
+	display: block;
+}
+
+#dashboard dt:hover {
+	background-color: #FF0068;
+}
+
+#dashboard dt.selected {
+	border-left: 5px solid #FF6800;
+}
+
+#main-content h1,
+#main-content h2,
+#main-content h3
+{
+	padding: 15px 0;
+	margin-bottom: 20px;
+	border-bottom: 1px solid gray;
+}
+
+#main-content ol, #main-content ul {
+	margin-left: 40px;
+}
+
+#main-content ul {
+	position: relative;
+	list-style-type: none;
+}
+
+#main-content ul li::before {
+	position: absolute;
+	content: "►";
+	left: -2em;
+}
+
+code {
+	background-color: #EEE;
+	color: black;
+	font-size: 70%;
+	
+	margin: auto 5px;
+	padding: 1px 5px;
+
+	text-transform: none;
+}
+
+.button {
+	display: inline-block;
+	margin: 20px 10px;
+	padding: 5px 30px;
+
+	background-color: #092;
+	box-shadow: 0 0 0 1em -1px black;
+	cursor: pointer;
+}
+
+.button[disabled] {
+	background-color: gray;
+	cursor: default;
+}
+
+.button:not([disabled]):hover {
+	background-color: #FF0068;
+}
+
+.message {
+	display: inline-block;
+	height: auto;
+	width: 0;
+
+	border-radius: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+
+	background-color: green;
+
+	overflow: hidden;
+	white-space: nowrap;
+
+	text-align: center;
+	font-size: 0.75em;
+	font-family: Verdana;
+	vertical-align: middle;
+
+	text-transform: none;
+
+	-webkit-transition: width 0.5s linear;
+	-ms-transition: width 0.5s linear;
+	transition: width 0.5s linear;
+}
+
+.message.warning {
+	background-color: red;
+}

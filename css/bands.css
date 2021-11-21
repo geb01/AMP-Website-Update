@@ -1,0 +1,227 @@
+.band {
+	background-color: #363636;
+	position: relative;
+
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-items: stretch;
+	-webkit-flex-flow: row nowrap;
+
+	display: flex;
+	align-items: stretch;
+	flex-flow: row nowrap;
+
+	/*height: 98%; */
+	font-family: LeagueSpartan, Verdana;
+	box-shadow: 0 0 1em black;
+}
+
+.band > div {
+	width: 50%;
+
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-items: flex-start;
+	-webkit-flex-flow: column nowrap;
+
+	display: flex;
+	align-items: flex-start;
+	flex-flow: column nowrap;
+
+	overflow-y: auto;
+}
+
+.band-left, .band-left.band-image {
+	position: absolute;
+	bottom: 0;
+	background-color: #646464;
+
+	display: block;
+}
+
+.band-left {
+	height: 75%;
+}
+
+.band-left.band-image {
+	max-height: 100%;
+	min-height: 70%;
+	height: auto;
+}
+
+.band-left.band-image > div:first-child {
+	width: 100%;
+	max-height: 500px;
+	overflow: hidden;
+}
+
+.band-image img {
+	width: 100%;
+}
+
+.band-description {
+	height: 100%;
+	width: auto;
+
+	padding: 35px;
+
+	overflow-x: hidden;
+	overflow-y: auto;
+	text-align: left;
+}
+
+.band-description h1 {
+	text-transform: uppercase;
+	margin-bottom: 35px;
+}
+
+.band-description p {
+	font-size: 0.9em;
+	font-family: DrescherGrotesque, Verdana;
+}
+
+.band-right {
+	position: absolute;
+
+	right: 0;
+	bottom: 0;
+
+	min-height: 75%;
+	max-height: 100%;
+
+	color: #646464;
+	text-align: left;
+	font-size: 0.9em;
+
+	overflow: auto;
+}
+
+.band-right > div {
+	margin-left: 50px;
+}
+
+.band-right > div > div {
+	margin-bottom: 50px;
+}
+
+.label {
+	font-family: LeagueSpartan, Verdana;
+	display: block;
+}
+
+.band-members {
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-items: flex-start;
+	-webkit-flex-flow: row nowrap;
+
+	display: flex;
+	align-items: flex-start;
+	flex-flow: row nowrap;
+}
+
+.band-members > div {
+	display: inline-block;
+	font-family: DrescherGrotesque, Verdana;
+}
+
+.band-members > div:first-child {
+	padding-right: 50px;
+	text-transform: capitalize;
+	font-weight: bold;
+}
+
+.band-members > div:nth-child(2) {
+	text-transform: lowercase;
+}
+
+.band-info > * {
+	font-size: 14px;
+	text-decoration: none;
+	color: #646464;
+
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-items: flex-start;
+	-webkit-flex-flow: row nowrap;
+
+	display: flex;
+	align-items: flex-start;
+	flex-flow: row nowrap;
+
+	margin-top: 10px;
+	max-width: auto;
+
+	text-overflow: ellipsis;
+	word-break: break-word;
+	word-wrap: break-all;
+}
+
+.band-info a:hover {
+	text-decoration: underline;
+}
+
+.band-info > * > div {
+	margin: auto 0;
+	display: inline-block;
+}
+
+
+.band-info > * > div:first-child {
+	min-width: 31px;
+	min-height: 31px;
+	background-color: #646464;
+
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.band-info > span > div:first-child {
+	background-color: transparent;
+	background-size: 100% 100%;
+	background-image: url(../images/person-placeholder.jpg);
+}
+
+.band-info > * > div:first-child:hover {
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.icon {
+	background-color: transparent;
+	background-size: 100% 100%;
+}
+
+.facebook-com {
+	background-image: url(../images/icons/facebook-icon.png);
+}
+
+.soundcloud-com {
+	background-image: url(../images/icons/soundcloud-icon.png);
+}
+
+.twitter-com {
+	background-image: url(../images/icons/twitter-icon.png);
+}
+
+.instagram-com {
+	background-image: url(../images/icons/instagram-icon.png)
+}
+
+.youtube-com {
+	background-image: url(../images/icons/youtube-icon.png);
+}
+
+.gmail-com {
+	background-image: url(../images/icons/gmail-icon.png);
+}
+
+.open-spotify-com{
+	background-image: url(../images/icons/open-spotify-icon.png);
+}
+@media all and (orientation: portrait) {
+	section {
+		max-height: 700px;
+	}
+}

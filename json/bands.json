@@ -1,0 +1,550 @@
+[
+    {
+        "name":"1081",
+        "description":"Extreme metal band which incorporates other complex and destructive genres of music",
+        "image":"/images/artists/1081.jpg",
+        "image strip":"/images/artists/1081.jpg",
+        "contact":["0918 908 1730"],
+        "links":["https://facebook.com/1081phofficial",
+                 "https://www.instagram.com/1081bandofficial",
+                 "https://soundcloud.com/1081-ph-official "],
+        "members": {"Ali Aldaba" : ["Vocals"],
+                    "Sean Mendoza" : ["Lead Guitar"],
+                    "Rafael Ortile" : ["Rhythm Guitar", "Backing Vocals"],
+                    "Elgin Que" : ["Drums"],
+                    "Shawn Reyes" : ["Bass"]
+        }
+    },
+
+    {
+        "name":"Anorama",
+        "description":"A pop punk-rock band from Mandaluyong/Pasig",
+        "image":"/images/artists/Anorama.jpg",
+        "image strip":"/images/artists/Anorama.jpg",
+        "contact":["0998 974 9664"],
+        "links":[""],
+        "members": {"Luigi Calauag" : ["Bass"],
+                    "Carlo Candelaria" : ["Vocals"],
+                    "Garney Candelaria" : ["Vocals"],
+                    "Aaron Guarnes" : ["Drums"],
+                    "Harvey Sanaga" : ["Guitar"],
+                    "Cyril Verdad" : ["Keyboard"]
+        }
+    },
+
+    {
+        "name":"Blue Suede",
+        "description":"We bring a new refreshing level of blues, incorporating Filipino lyrics into our vibe.",
+        "image":"/images/artists/BlueSuede.jpg",
+        "image strip":"/images/artists/BlueSuede.jpg",
+        "contact":["0916 375 8018"],
+        "links":["https://www.facebook.com/blusue.shaw.3",
+                 "https://twitter.com/BluSue1",
+                 "https://www.instagram.com/blusue1"],
+        "members": {"Sean Corpuz" : ["Vocals", "Harmonica"],
+                    "Ben Marasigan" : ["Vocals", "Lead Guitar"],
+                    "Joe Meliza" : ["Vocals", "Rhythm Guitar"],
+                    "Raymond Nojadera" : ["Bass"],
+                    "Arvin Petalver" : ["Vocals"],
+                    "Elgin Que" : ["Drums"],
+                    "Wesley Carag" : ["Keys"]
+        }
+    },
+
+    {
+        "name":"Cherry Cola",
+        "description":"80's dance pop.",
+        "image":"/images/artists/default.jpg",
+        "image strip":"/images/artists/default.jpg",
+        "contact":["0905 244 5114"],
+        "links":[""],
+        "members": {"Gwen Guck" : ["Bass", "Backing Vocals"],
+                    "Diego Redobalado" : ["Lead Vocals", "Rhythm Guitar"],
+                    "Thirdy Saruca" : ["Lead Guitar", "Backing Vocals"],
+                    "Heinz Viray" : ["Drums"]
+        }
+    },
+
+    {
+        "name":"Clamshell Boxes",
+        "description":"A 5-piece indie-pop band infused with blues, soul and ballads, The Clamshell Boxes invites their listeners to embrace the emotions they encounter along with the experiences they will face as life goes on.",
+        "image":"/images/artists/default.jpg",
+        "image strip":"/images/artists/default.jpg",
+        "contact":["0917 303 0391"],
+        "links":["https://www.facebook.com/TheClamshellBoxesBand",
+                 "https://twitter.com/The_CBX?s=09",
+                 "https://instagram.com/the_cbx",
+                 "https://soundcloud.com/clamshell-boxes"],
+        "members": {"Abe Abueta" : ["Bass", "Vocals"],
+                    "Ivan Cruz" : ["Saxophone"],
+                    "Babu Dadap" : ["Lead Guitar", "Vocals"],
+                    "Just Mosquera" : ["Drums"],
+                    "Ryan Orlas" : ["Rhythm Guitar", "Vocals"]
+        }
+    },
+
+    {
+        "name":"Great Dane",
+        "description":"Composed of members from Manila and Singapore, The Great Dane is a four-piece band that fuses modern soul, funky blues, and alternative rock.",
+        "image":"/images/artists/GreatDane.jpg",
+        "image strip":"/images/artists/GreatDane.jpg",
+        "contact":["0945 113 5744"],
+        "links":["https://www.facebook.com/thegreatdaneph/",
+                 "https://www.open.spotify.com/artist/0kBu4TScyrcXugROuOFkqe?si=M-hBghhlS-GZE8NUrqjsZg"],
+        "members": {"Chris Anzanza" : ["Vocals"],
+                    "Brenan Ng" : ["Guitar"],
+                    "Christian Ng" : ["Drums"],
+                    "Joaquin Reyes" : ["Bass"]
+        }
+    },
+
+    {
+        "name":"Alyson",
+        "description":"Ang bandang pwede na.",
+        "image":"/images/artists/alyson.jpg",
+        "image strip":"/images/artists/alyson.jpg",
+        "contact":[
+            "9278339264"
+        ],
+        "links":[
+            "https://facebook.com/heyitsalyson",
+            "https://twitter.com/alysonpinas",
+            "https://soundcloud.com/alysonpinas"
+        ],
+        "members":{
+            "Pio Ligot":[
+                "Vocals",
+                "Rhythm Guitar"
+            ],
+            "Marcus Mababangloob":[
+                "Drums",
+                "Backup Vocals",
+                "Keyboard"
+            ],
+            "Miguel Erfe":[
+                "Bass"
+            ],
+            "Luis Uy":[
+                "Lead Guitar"
+            ]
+        }
+    },
+    {
+        "name":"Bottom Space",
+        "description":"6-piece Alternative Indie-Rock band from Ateneo. One that you should listen to when your life doesn't make sense because we too, try to make sense of things that don't.",
+        "image":"/images/artists/bottom-space.jpg",
+        "image strip":"/images/artists/bottom-space.jpg",
+        "links":[
+            "https://facebook.com/bottomspace",
+            "https://twitter.com/bottom_space",
+            "https://soundcloud.com/bottomspace"
+        ],
+        "members":{
+            "Ziggy Bareng":[
+                "Rhythm Guitar"
+            ],
+            "Gab Opao":[
+                "Lead Guitar"
+            ],
+            "Mikho Pelingon":[
+                "Drums"
+            ],
+            "Diego Drillon":[
+                "Bass"
+            ],
+            "Arian de las Alas":[
+                "Vocals"
+            ]
+        }
+    },
+    {
+        "name":"Indayo",
+        "description":"Indayo is an indie-alternative, folk-pop band from the Philippines. They have been around the music scene, jumping from one gig to another since 2013. They sing anthems of hope, stories on love and life lessons which people can resonate with. The band consists of Lia Alfonso on vocals, Cha Umali on lead guitar, Mela Roque on cello, Cita Alfonso on drums, Melissa Ramos on the violin, Pam Mamaril on percussion and Babu Dadap on bass.",
+        "image":"/images/artists/indayo.jpg",
+        "image strip":"/images/artists/indayo.jpg",
+        "links":[
+            "https://facebook.com/Indayomusic",
+            "https://twitter.com/IndayoMusic",
+            "https://www.instagram.com/indayomusic"
+        ],
+        "members":{
+            "Cha Umali":[
+                "Lead Guitar"
+            ],
+            "Lia Alfonso":[
+                "Vocals"
+            ],
+            "Melissa Ramos":[
+                "Violin"
+            ],
+            "Mela Roque":[
+                "Cello"
+            ],
+            "Cita Alfonso":[
+                "Drums"
+            ],
+            "Pam Mamaril":[
+                "Percussion"
+            ],
+            "Babu Dadap":[
+                "Bass"
+            ]
+        }
+    },
+    {
+        "name":"K/L",
+        "description":"K/L is an acoustic duo from Quezon City made of bestfriends Laean Angeles and Kim Bernardino. From merely doing acoustic covers in high school, they've since become an odd mix of their drastically different musical influences that write their own heart-wrenching originals by a three-step process: iyak, sulat, iyak.",
+        "image":"/images/artists/kslashl.jpg",
+        "image strip":"/images/artists/kslashl.jpg",
+        "links":[
+            "https://facebook.com/kslashl",
+            "https://twitter.com/kslashl"
+        ],
+        "members":{
+            "Laean Angeles":[
+                "Guitar & Vocals"
+            ],
+            "Kim Bernardino":[
+                "Vocals"
+            ]
+        }
+    },
+    {
+        "name":"Kremesoda",
+        "description":"Formed in the heart of Katipunan, Kremesoda is a 4-piece alternative rock band with shades of brit-pop, indie rock, and homegrown Pinoy music. Their songs, which consistently revolved around the themes of adolescent love, heartbreak, and unsaid thoughts, continue to evolve and mature as they grow up.",
+        "image":"/images/artists/Kremesoda.jpg",
+        "image strip":"/images/artists/Kremesoda.jpg",
+        "contact":[
+            "0917 302 3528"
+        ],
+        "links":[
+            "https://facebook.com/Kremesoda",
+            "https://www.twitter.com/KremesodaPH",
+            "https://www.instagram.com/KremesodaPH",
+            "https://www.soundcloud.com/kreme-soda",
+            "https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf?si=0rDl_yPZQa6aJogzRrXiyw"
+        ],
+        "members":{
+            "Toots Orosa":[
+                "Vocals",
+                "Rhythm Guitar"
+            ],
+            "Lan De Lara":[
+                "Bass"
+            ],
+            "Duds Mitra":[
+                "Lead Guitar"
+            ],
+            "Hosh Domingo":[
+                "Drums"
+            ]
+        }
+    },
+    {
+        "name":"Last Name Basis",
+        "description":"Acoustic duo and BFFs.",
+        "image":"/images/artists/lastname-basis.jpg",
+        "image strip":"/images/artists/lastname-basis.jpg",
+        "links":[
+            "https://facebook.com/lastnamebasis.ph",
+            "https://twitter.com/lastnamebasisph",
+            "https://www.instagram.com/lastnamebasisph"
+        ],
+        "members":{
+            "Sophia Bello":[
+                "Vocals"
+            ],
+            "Isabel Torres":[
+                "Vocals",
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "name":"Lolo's Polo",
+        "description":"",
+        "image":"/images/artists/lolos-polo.jpg",
+        "image strip":"/images/artists/lolos-polo.jpg",
+        "contact":[
+            "0917 579 1997"
+        ],
+        "links":[
+            "https://facebook.com/TheLolosPolo"
+        ],
+        "members":{
+            "Miko Tendero":[
+                "Lead Guitar"
+            ],
+            "Lino Vergel De Dios":[
+                "Vocals",
+                "Guitar"
+            ],
+            "Jamo Fevidal":[
+                "Drums"
+            ],
+            "Nat Sundiang":[
+                "Bass",
+                "Vocals"
+            ]
+        }
+    },
+    {
+        "name":"Mondays at 4",
+        "description":"Forming on a certain day of the week, at a very specific time, Mondays at 4 is a 6-piece Pop-Rock band, that enjoys jokes, making fun of each other, and creating slightly sad, but not too sad, songs that we want people to relate to and enjoy.",
+        "image":"/images/artists/mondays-at-4.jpg",
+        "image strip":"/images/artists/mondays-at-4.jpg",
+        "links":[
+            "https://facebook.com/monkeysat4",
+            "https://twitter.com/monkeysat4",
+            "https://soundcloud.com/mondays-at-4"
+        ],
+        "members":{
+            "Pancho Santos":[
+                "Drums"
+            ],
+            "Koi Calleja":[
+                "Lead Vocals"
+            ],
+            "PJ Roxas":[
+                "Guitar"
+            ],
+            "Cyril Morales":[
+                "Guitar"
+            ],
+            "Mio Garcia":[
+                "Bass Guitar"
+            ],
+            "MC Monserrat":[
+                "Keyboard"
+            ]
+        }
+    },
+    {
+        "name":"Our Inflatable Friends",
+        "description":"Our Inflatable Friends is a pop band that mixes indie rock, ambient, dream pop and many other genre influences to make up their own unique sound.",
+        "image":"/images/artists/oif.jpg",
+        "image strip":"/images/artists/oif.jpg",
+        "links":[
+            "https://facebook.com/ourinflatablefriends",
+            "https://twitter.com/oifmnl",
+            "https://www.instagram.com/ourinflatablefriends"
+        ],
+        "members":{
+            "Gail Viaje":[
+                "Vocals"
+            ],
+            "China Principe":[
+                "Bass",
+                "Backing Vocals"
+            ],
+            "Jamo Fevidal":[
+                "Drums"
+            ],
+            "Jeric Santos":[
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "name":"Suits and Sepia",
+        "description":"medyo blues. medyo jazz. medyo rock. shur good time",
+        "image":"/images/artists/suits-and-sepia.jpg",
+        "image strip":"/images/artists/suits-and-sepia.jpg",
+        "contact":[
+            "0917 878 0564"
+        ],
+        "links":[
+            "https://facebook.com/suitsandsepia",
+            "https://soundcloud.com/suitsandsepia"
+        ],
+        "members":{
+            "Michael Heraldo":[
+                "Guitar"
+            ],
+            "Erj Gatdula":[
+                "Drums"
+            ],
+            "Joshe Tiu":[
+                "Saxophone"
+            ],
+            "Alex Laohu":[
+                "Bass"
+            ],
+            "Cheska Rebosa":[
+                "Keyboard"
+            ],
+            "Sabrina Basilio":[
+                "Vocals"
+            ],
+            "Morritz Abella":[
+                "Vocals"
+            ],
+            "Moji Abella":[
+                "Vocals"
+            ],
+            "Anton De La Torre":[
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "name":"Cañao",
+        "description":"Nice and Quiet",
+        "image":"/images/artists/canao.jpg",
+        "image strip":"/images/artists/canao.jpg",
+        "contact" : ["0966 166 0383"],
+        "links":[
+            "https://facebook.com/mtcanao",
+            "https://twitter.com/mtcanao",
+            "https://www.instagram.com/mtcanao"
+        ],
+        "members":{
+            "Danielle Requilman":[
+                "Vocals",
+                "Guitar"
+            ],
+            "Karl Eli Alconis":[
+                "Vocals",
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "name":"Morobe",
+        "description":"Morobe is a 6-piece band formed early 2018. The name “Morobe” comes from the province in Papua New Guinea where their lead singer, Laean, grew up in. They describe their sound as a fusion of RnB, blues, soul, and a little bit of pop here and there.",
+        "image":"/images/artists/default.jpg",
+        "image strip":"/images/artists/default.jpg",
+        "links":[
+
+        ],
+        "members":{
+            "Laen Angeles":[
+                "Vocals"
+            ],
+            "Paul Binag":[
+                "Keyboard"
+            ],
+            "Hoshaiah Domingo":[
+                "Drums"
+            ],
+            "Luigi Montelibano":[
+                "Bass"
+            ],
+            "Babu Dadap":[
+                "Guitar"
+            ],
+            "John Yodong":[
+                "Sax"
+            ]
+        }
+    },
+    {
+        "name":"Seizure Salad",
+        "description":"Formed in 2017, Seizure Salad is an alternative rock band that mixes pop punk, indie rock & pop rock while also adding dashes off other genres. Whether they go for an emotional or adrenaline inducing atmosphere, or somewhere inbetween, they manage to blend it all together to form their sound.",
+        "image":"/images/artists/seizure-salad.jpg",
+        "image strip":"/images/artists/seizure-salad.jpg",
+        "links":[
+            "https://facebook.com/seizuresalad12345",
+            "https://www.instagram.com/seizuresalad12345",
+            "https://soundcloud.com/seizure_salad_ph"
+        ],
+        "members":{
+            "Jack Castañeda":[
+                "Lead Guitar"
+            ],
+            "Luigi Del Rosario":[
+                "Bass",
+                "Backing Vocals"
+            ],
+            "Adam Martinez":[
+                "Drums"
+            ],
+            "Noel Rodriguez":[
+                "Vocals"
+            ]
+        }
+    },
+    {
+        "name":"Serotonin",
+        "description":"6 frustrated musicians making melodic riffs accompanied by indie drum-style and classical piano adlibs.",
+        "image":"/images/artists/seratonin.jpg",
+        "image strip":"/images/artists/seratonin.jpg",
+        "links":[
+            "https://facebook.com/serotoninph"
+        ],
+        "members":{
+            "James Dimaano":[
+                "Drums"
+            ],
+            "Joshua Evangelista":[
+                "Bass"
+            ],
+            "Jason Fernandez":[
+                "Vocals",
+                "Guitar"
+            ],
+            "Paul Malicdem":[
+                "Keyboard"
+            ],
+            "Robbie Rosita":[
+                "Guitar"
+            ],
+            "Julian Savadera":[
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "name":"The Blanks",
+        "description":"The Blanks is an indie/alt band that loves to have fun through music. The bands goal is to make it's listeners chill and just vibe to enjoy the art in music.",
+        "image":"/images/artists/the-blanks.jpg",
+        "image strip":"/images/artists/the-blanks.jpg",
+        "links":[
+            "https://facebook.com/thblnksph",
+            "https://twitter.com/theblanksph",
+            "https://soundcloud.com/theblanksph"
+        ],
+        "members":{
+            "Caloy Perez":[
+                "Rhythm Guitar",
+                "Vocals"
+            ],
+            "Kurt Rebolledo":[
+                "Bass"
+            ],
+            "Billy Samonte":[
+                "Lead Guitar"
+            ],
+            "Tomy Samonte":[
+                "Drums"
+            ]
+        }
+    },
+    {
+        "name":"The Quirks",
+        "description":"4 guys without any time on their hands making weird music.",
+        "image":"/images/artists/the-quirks.jpg",
+        "image strip":"/images/artists/the-quirks.jpg",
+        "links":[
+            "https://facebook.com/thequirksmusic",
+            "https://twitter.com/thequirksmusic",
+            "https://soundcloud.com/thequirksmusic"
+        ],
+        "members":{
+            "Rafael Esguerra":[
+                "Rhythm Guitar",
+                "Vocals"
+            ],
+            "Teddy Perez":[
+                "Bass"
+            ],
+            "Thirdy Saruca":[
+                "Lead Guitar",
+                "Vocals"
+            ],
+            "Heinz Nicolo Viray":[
+                "Drums"
+            ]
+        }
+    }
+]

@@ -1,0 +1,44 @@
+section:first-child {
+	position: fixed;
+}
+#login-form {
+	background-color: rgba(50, 50, 50, 0.8);
+	padding: 20px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+#login-form input[type=password] {
+	width: 200px;
+	font-size: 1em;
+	padding: 0 10px;
+}
+#login-form input[type=submit] {
+	display: block;
+	margin-top: 10px;
+	font-family: inherit;
+	width: 100%;
+	height: 50px;
+	cursor: pointer;
+}
+#login-form p {
+	text-align: right;
+	font-size: 0.5em;
+	margin-top: 10px;
+	margin-bottom: -8px;
+}
+section {
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	height: auto;
+	min-height: 100%;
+}
+.editor {
+	width: 500px;
+	height: 70%;
+	margin: 20px auto;
+	padding: 20px;
+
+	background-color: rgba(150, 150, 150, 0.5);
+	border-radius: 10px;
+}

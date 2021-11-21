@@ -1,0 +1,332 @@
+header {
+	width: 100%;
+	z-index: 1000000;
+}
+
+#fullscreen header {
+	position: fixed;
+	top: 0;
+	height: 0;
+}
+
+#holy-grail header {
+	position: relative;
+	height: 110px;
+}
+
+header > * {
+	position: absolute;
+	top: 40px;
+}
+
+header .menu-button, .amp-logo, #search-bar, #menu-label .arrow {
+	cursor: pointer;
+
+	transition: 0.15s linear;
+	-moz-transition: 0.15s linear;
+	-webkit-transition: 0.15s linear;
+}
+
+header .menu-button:hover, .amp-logo:hover, #search-bar {
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+
+	transition: 0.15s linear;
+	-moz-transition: 0.15s linear;
+	-webkit-transition: 0.15s linear;
+}
+
+.menu-button {
+	width: 28px;
+	height: 28px;
+	background-size: 28px;
+}
+
+header .menu-button {
+	left: 40px;
+}
+
+header #menu-label {
+	left: 88px;
+}
+
+#menu-label {
+	font-size: 0.9em;
+
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+#menu-label.top {
+	cursor: default;
+}
+
+#menu-label .arrow {
+	display: inline-block;
+	position: absolute;
+	
+	top: 8px;
+	right: -25px;
+
+	border-bottom-color: #FF0068;
+}
+
+#menu-label.top .arrow {
+	display: none;
+}
+
+#menu-label .arrow:hover {
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+header #menu {
+	position: absolute;
+	left: 40px;
+	z-index: -1;
+}
+
+#menu {
+	/* Safari */
+	/* display: -webkit-flex; */
+	-webkit-align-items: center;
+	-webkit-flex-flow: column nowrap;
+
+	/* display: flex; */
+	align-items: flex-start;
+	flex-flow: column nowrap;
+
+	font-family: DrescherGrotesque, LeagueSpartan, Verdana;
+	font-size: 0.9em;
+	text-transform: uppercase;
+
+	text-align: center;
+	line-height: 239%;
+
+	min-width: 256px;
+
+	margin: 35px -10px;
+	padding: 10px 0;
+
+	cursor: default;
+
+	background-color: rgba(30, 30, 30, 0.95);
+}
+
+header #menu::before {
+	position: absolute;
+	content: "";
+
+	left: 0;
+	top: -45px;
+
+	height: 45px;
+	width: 50px;
+
+	background-color: rgba(30, 30, 30, 0.95);
+}
+
+#admin-menu-item {
+	background-color: #FF6800;
+	color: white;
+}
+
+#menu .node > a {
+	display: block;
+	width: 100%;
+
+	transition: background-color 0.3s ease-out;
+	-moz-transition: background-color 0.3s ease-out;
+	-webkit-transition: background-color 0.3s ease-out;
+}
+
+#menu .node > a:not([href]) {
+	color: #646464;
+	cursor: default;
+}
+
+/* put arrow if node has a subtree */
+#menu .node:not(:last-child)::before {
+	content: "►";
+	position: absolute;
+	right: 10px;
+}
+
+#menu .node:hover > a[href] {
+	background-color: #FF0068;
+
+	transition: background-color 0.15s ease-in;
+	-moz-transition: background-color 0.15s ease-in;
+	-webkit-transition: background-color 0.15s ease-in;
+}
+
+#menu .tree:hover > .node:not(:hover) {
+	background-color: rgba(129, 0, 54, 0.8);
+
+	transition: background-color 0.15s ease-in;
+	-moz-transition: background-color 0.15s ease-in;
+	-webkit-transition: background-color 0.15s ease-in;
+}
+
+#menu .node > a[href=''] {
+	cursor: default;
+}
+
+#menu .subtree {
+	position: absolute;
+	display: none;
+	min-width: 200px;
+
+	left: 100%;
+	margin-top: -100px;
+	margin-left: -5px;
+
+	/* allow hover allowance */
+	padding: 50px 150px 125px 0;
+}
+
+#menu .subtree .tree {
+	position: relative;
+	background-color: rgba(30, 30, 30, 0.95);
+}
+
+#menu .node:hover + .subtree, #menu .node + .subtree:hover {
+	display: block;
+}
+
+header .amp-logo {
+	margin: 0 auto;
+	
+	top: 30px;
+	left: 0;
+	right: 0;
+}
+
+.amp-logo {
+	width: 45px; height: 45px;
+	background-size: 44px;
+}
+
+#search-bar {
+	/* Safari */
+	display: -webkit-flex;
+	-webkit-align-items: flex-end;
+	-webkit-flex-flow: row nowrap;
+
+	display: flex;
+	align-items: flex-end;
+	flex-flow: row nowrap;
+
+	padding: 10px;
+	margin-top: -10px;
+
+	right: 40px;
+
+	border-radius: 10px;
+}
+
+#search-bar:hover {
+	background-color: rgba(30, 30, 30, 0.95);
+}
+
+#search-bar input {
+	width: 0px;
+	max-width: 30vw;
+	
+	margin: auto 10px;
+
+	font-size: 0.8em;
+	opacity: 0;
+
+	background-color: #eee;
+	transition: 0.6s ease;
+}
+
+#search-bar:hover input {
+	opacity: 1;
+	width: 250px;
+}
+
+#search-bar::after {
+	content: "";
+
+	width: 32px; height: 32px;
+	background-size: 33px;
+
+	background-image: url(../images/icons/search-button-white-small.png) !important;
+	background-repeat: no-repeat !important;
+}
+
+
+header #widget-container {
+	position: fixed;
+	right: 40px;
+
+	margin-top: 80px;
+}
+
+#widget-container {
+	display: -webkit-flex;
+	-webkit-align-items: flex-end;
+	-webkit-flex-flow: column nowrap;
+
+	display: flex;
+	align-items: flex-end;
+	flex-flow: column nowrap;
+
+	text-align: right;
+}
+
+#widget-container > * {
+	padding-bottom: 8px;
+}
+
+#widget-container .widget > * {
+	min-width: 40px;
+	min-height: 5px;
+	background-color: white;
+
+	overflow: hidden;
+
+	font-size: 0;
+	font-color: white;
+
+	text-transform: uppercase;
+	text-overflow: clip;
+	white-space: nowrap;
+
+	border: 1px solid #AAA;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+	cursor: pointer;
+
+	transition: all 0.15s linear;
+	-moz-transition: all 0.15s linear;
+	-webkit-transition: all 0.15s linear;
+}
+
+#widget-container .widget.selected > * {
+	background-color: #FF0068;
+	font-size: 0.8em;
+
+	border: 0px solid black;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+}
+
+#widget-container .widget:hover:not(.selected) > * {
+	min-width: 0;
+	font-size: 0.4em;
+	color: black;
+	padding: 0 10px;
+}
+
+@media (max-width: 600px) {
+	#menu-label,
+	#widget-container {
+		display: none;
+	}
+}
