@@ -50,7 +50,7 @@
 						<div class='wrapper'>
 							<?php if (isset($meta['mission'])): ?>
 							<div id='mission' class='hover-float'>
-								<h1>Missions/h1>
+								<h1>Mission</h1>
 								<?php echo paragraph($meta['mission']); ?>
 							</div>
 							<?php endif; ?>
