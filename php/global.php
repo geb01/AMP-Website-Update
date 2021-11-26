@@ -239,6 +239,15 @@
 			<div id='footer-left'>
 				<img src='/images/icons/footer_logo.png'/>
 			</div>
+			<div id = 'footer-center'>
+				<ul>
+					<li><a href = "https://www.facebook.com/ateneomusicianspool" target = "_blank"><img src= "/images/icons/facebook-icon.png"></a></li>		
+					<li><a href = "https://www.twitter.com/AMPAteneo" target = "_blank"><img src= "/images/icons/twitter-icon.png"></a></li>
+					<li><a href = "https://www.instagram.com/ateneomusicianspool" target = "_blank"><img src= "/images/icons/instagram-icon.png"></a></li>
+					<li><a href = "https://www.behance.net/AMPAteneo" target = "_blank"><img src= "/images/icons/behance-icon.png"></a></li>
+					<li><a href = "mailto: amp.ls@obf.ateneo.edu" target = "_blank"><img src= "/images/icons/gmail-icon.png"></a></li>
+				</ul>
+			</div>
 			<div id='footer-right'>
 				<p>Ateneo de Manila University<p>
 				<p>ateneomusicianspool@gmail.com<p>
