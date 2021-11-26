@@ -146,7 +146,7 @@
 					<?php } ?>
 				</div>
 			</section>
-			<?php 
+			<?php
 				/* createDividers([
 					['Bands', 'images/bands.jpg', 'artists.php'],
 					['Soloists', 'images/soloists.jpg', 'soloists.php']
