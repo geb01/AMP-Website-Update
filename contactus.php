@@ -59,3 +59,4 @@ $meta = json('meta');
             <center><input type="submit" value="Submit" name="submit" id="submit" onclick="notif"><br><br></center>
         </form>
     </body>
+</html>
