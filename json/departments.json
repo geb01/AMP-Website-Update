@@ -13,6 +13,10 @@
             {
                 "name":"Josemaria Y. Layug III (SE Head)"
             }
+            ,
+            {
+                "name":"Juan Emmanuel D. Aruego (BAC Head)"
+            }
         ]
     },
     {
@@ -37,13 +41,16 @@
         "description":"The Documentation &amp; Publications department houses all of AMP's photographers, writers and videographers. They commemorate the experience that AMP creates. In short, they make history.",
         "officers":[
             {
+                "name":"Mateo Jacob S. Tambunting (Documentation & Pubclications Head)"
+            },
+            {
                 "name":"Alfonso Domenico Q. Villaraza (Photography Deputy)"
             },
             {
                 "name":"Matthew Eli L. Dizon (Videography Deputy)"
             },
             {
-                "name":"Mateo Jacob S. Tambunting (Writing Deputy)"
+                "name":"Beatrice Louise G. Santillan (Writing Deputy)"
             }
         ]
     },
