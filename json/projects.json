@@ -1,0 +1,64 @@
+[{
+        "image": "/images/about/projs/ampweek.jpg",
+        "name": "AMP Week",
+        "description": "As the first project of the school year, AMP Week is dedicated to welcoming old and new members to the organization. This jam-packed project features department talks, activities and challenges, and the org-wide general assembly, which is immediately followed by a fun-filled culmination night.",
+        "heads": [{
+                "name": "Sophie Policarpio"
+            },
+            {
+                "name": "Joseph Melliza"
+            }
+        ]
+    },
+    {
+        "image": "/images/about/projs/ritesofpassage.jpg",
+        "name": "Rites of Passage",
+        "description": "Started in the 90s, Rites of Passage holds the title of being the first official project in AMP history. The project, as the name suggests, serves as the newbies’ initiation to gig culture. In addition, Rites of Passage is traditionally held in gig bars outside of the school campus such as Mow’s, Sessions, 70s Bistro, and Route 196. Split into two nights in order to accommodate the diversity of new members, the project has served as a turning point for many---a game-changer where members form or deepen their love for the local music scene.",
+        "heads": [{
+                "name": "Juan Aruego"
+            },
+            {
+                "name": "Mash Macias"
+            }
+        ]
+    },
+    {
+        "image": "/images/about/projs/campunity.jpeg",
+        "name": "CAMP Unity",
+        "description": "Camp Unity is one of AMP’s most awaited internal projects, being a three-day and team building event usually held outside of the city. The project was introduced in the late 2000s as a songwriting workshop, but has since expanded to include other activities to engage members across all departments. Centered around music and other forms of related media, this serves as one of the organization’s biggest community-building and member engagement initiatives.Online, this event would turn into a week-long event instead of three-day event. All activities would also be held online; the songwriting workshop and team-building activities would still remain, but may also include department workshops and other activities.",
+        "heads": [{
+                "name": "Nikki Abrogar"
+            },
+            {
+                "name": "Tia Garcia"
+            }
+        ]
+    },
+    {
+        "image": "/images/about/projs/tube.png",
+        "name": "AMPlitube",
+        "description": "Tube is AMP’s online magazine which serves as one of its main hubs for innovative and creative content, recently moving from print to a digital platform. Tube features all forms of content surrounding music and music discourse.",
+        "heads": [{
+                "name": "Migo Lumawig"
+            },
+            {
+                "name": "Gabe Ocampo"
+            }
+        ]
+    },
+    {
+        "image": "/images/about/projs/amplugged.jpg",
+        "name": "AMP’s 25th Anniversary",
+        "description": "Exclusive to this year, AMP's 25th Anniversary Celebration would be commemorative of the 25 years of the organization. This aims to be a gathering of all AMP members and alumni in celebration of music.",
+        "heads": [{
+                "name": "Christian Ng"
+            },
+            {
+                "name": "Matthew Profetta"
+            },
+            {
+                "name": "Mavi Avendano"
+            }
+        ]
+    }
+]
