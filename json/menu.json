@@ -16,5 +16,17 @@
         "href":"/artists.php",
         "active":true,
         "open new tab":false
+    },
+    {
+        "label":"tube",
+        "href":"https://tube.ateneomusicianspool.com",
+        "active":true,
+        "open new tab":false
+    },
+    {
+        "label":"Amplugged",
+        "href":"https://www.youtube.com/channel/UCB5siGRAwfqbcOzP4ZrTK2w/",
+        "active":true,
+        "open new tab":true
     }
 ]
