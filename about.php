@@ -86,7 +86,9 @@
 				</div>
 				<div class='feature-wrapper'><?php
 					$id = 0;
-					foreach ($eb as &$executive) {?>
+					foreach ($eb as &$executive) {
+						$image = $executive['image'];
+						if ($image) $image = "src='$image'"; ?>
 						<div class='feature-display' index='<?php echo $id++; ?>'>
 							<img class='feature-pic' <?php echo $image; ?>>
 							<div class='feature-description'>
@@ -122,7 +124,9 @@
 				</div>
 				<div class='feature-wrapper'><?php
 					$id = 0;
-					foreach ($department as &$dep) { ?>
+					foreach ($department as &$dep) {
+						$image = $dep['image'];
+						if ($image) $image = "src='$image'"; ?>
 						<div class='feature-display' index='<?php echo $id++; ?>'>
 							<img class='feature-pic' <?php echo $image; ?>>
 							<div class='feature-description'>
