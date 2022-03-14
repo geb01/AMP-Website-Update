@@ -35,6 +35,21 @@
         ]
     },
     {
+        "image": "/images/about/projs/amplugged.jpg",
+        "name": "AMP’s 25th Anniversary",
+        "description": "Exclusive to this year, AMP's 25th Anniversary Celebration would be commemorative of the 25 years of the organization. This aims to be a gathering of all AMP members and alumni in celebration of music.",
+        "heads": [{
+                "name": "Christian Ng"
+            },
+            {
+                "name": "Matthew Profetta"
+            },
+            {
+                "name": "Mavi Avendano"
+            }
+        ]
+    },
+    {
         "image": "/images/about/projs/tube.png",
         "name": "AMPlitube",
         "description": "Tube is AMP’s online magazine which serves as one of its main hubs for innovative and creative content, recently moving from print to a digital platform. Tube features all forms of content surrounding music and music discourse.",
@@ -47,17 +62,14 @@
         ]
     },
     {
-        "image": "/images/about/projs/amplugged.jpg",
-        "name": "AMP’s 25th Anniversary",
-        "description": "Exclusive to this year, AMP's 25th Anniversary Celebration would be commemorative of the 25 years of the organization. This aims to be a gathering of all AMP members and alumni in celebration of music.",
+        "iframe": "https://www.youtube.com/embed/RB6cuBPI-IA",
+        "name": "AMPlugged",
+        "description": "AMPlugged is AMP's collection of videos that showcase the amazing talented people in AMP plus some behind-the-scene clips.",
         "heads": [{
                 "name": "Christian Ng"
             },
             {
                 "name": "Matthew Profetta"
-            },
-            {
-                "name": "Mavi Avendano"
             }
         ]
     }

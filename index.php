@@ -73,6 +73,7 @@
 		<?php createHeader('Home'); ?>
 		<div id='home'>
 			<h1>Bigger than the sound</h1>
+			<iframe src="https://open.spotify.com/embed/album/79FpJaSolzOhVdiwnFKKet?si=J_xNLErVTxa1pcZlhli0Zw&nd=1" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 		</div>
 	</body>
 	<?php createFooter('Home'); ?>

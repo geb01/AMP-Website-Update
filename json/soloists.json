@@ -4,188 +4,177 @@
         "image strip":"/images/artists/571dd91ee5b56.jpg",
         "artists":[
             {
-                "name" : "Gloria Manlimos"
-
+                "name":"Cara Mamonong"
             },
             {
-                "name" : "Keannah Gaspar"
-
+                "name":"Diego Villalon"
             },
             {
-                "name" : "Raissa Pujalte"
-
+                "name":"Jill Aliño"
             },
             {
-                "name" : "Lucas Pison"
-
+                "name":"Jom Uy"
             },
             {
-                "name" : "Terena Neri"
-
+                "name":"Juana Santico"
             },
             {
-                "name" : "Carlin Maxino"
-
+                "name":"Kanisha Jison"
             },
             {
-                "name" : "Deanna Mate"
-
+                "name":"LJ Manabilang"
             },
             {
-                "name" : "Franz Guico"
-
+                "name":"Mart Celiz"
             },
             {
-                "name" : "Alejandro  Elgar"
-
+                "name":"Poli Policarpio"
             },
             {
-                "name" : "Anna de Dios"
-
+                "name":"Thea Caballero"
             },
             {
-                "name" : "Kathlyn Buizon"
-
+                "name":"Thea Daytoc"
             },
             {
-                "name" : "Cymbelline Bontogon"
-
+                "name":"Wami Alcazar"
             },
             {
-                "name" : "Kyra Andres"
-
+                "name":"Yani Lopez"
             },
             {
-                "name" : "Dominique Abrogar"
-
+                "name":"Yanna Salazar"
             },
             {
-                "name" : "Kayla Afable"
-
+                "name":"Zed Bisenio"
             },
             {
-                "name" : "Hannah Pacheco"
-
+                "name":"Christi Gail Viaje",
+                "genre":"Acoustic, Ballad, Jazz, Indie, Pop, RnB",
+                "soundcloud":"https://soundcloud.com/gaildoesmusic"
             },
             {
-                "name" : "Ellimar Real"
-
+                "name":"Beatrice Marie Bustamante",
+                "genre":"Acoustic, Indie, Pop, RnB",
+                "soundcloud":"https://soundcloud.com/beabustamante"
             },
             {
-                "name" : "Nathaniel Mariano"
-
+                "name":"Alexandra Martin",
+                "genre":"Acoustic, Indie, RnB"
             },
             {
-                "name" : "Martina Macias "
-
+                "name":"Mary Eda Cimafranca",
+                "genre":"Balad, Bosa Nova, Indie, Jazz, RnB"
             },
             {
-                "name" : "Julia Lee"
-
+                "name":"Bianca Isabel Henares",
+                "genre":"Acoustic, Indie, Pop"
             },
             {
-                "name" : "Raissa Laviña"
-
+                "name":"Alf Dolina",
+                "genre":"Pop, RnB, Soul/Jazz",
+                "soundcloud":"https://soundcloud.com/alfonso-dolina"
             },
             {
-                "name" : "Earl Felizardo"
-
+                "name":"Rianna Arcos",
+                "genre":"Acoustic, Pop, RnB, Soul/Jazz",
+                "soundcloud":"https://soundcloud.com/soundcloud.com/riannaarcosN"
             },
             {
-                "name" : "Cathleen Dimayuga"
-
+                "name":"Xandré Jane Ong",
+                "genre":"Acoustic, Pop, RnB",
+                "soundcloud":"https://soundcloud.com/xandre_jane"
             },
             {
-                "name" : "Rouie Barba"
-
+                "name":"Babu Dadap",
+                "genre":"Acoustic, Blues, Pop, Rock, Soul, RnB",
+                "soundcloud":"https://soundcloud.com/babu-dadap"
             },
             {
-                "name" : "Marcus Barasi"
-
+                "name":"Kelly Nicolas",
+                "genre":"Acoustic, Pop, RnB, Soul/Jazz"
             },
             {
-                "name" : "Miguel Austriaco"
-
+                "name":"Bianca Abad",
+                "genre":"Acoustic, Pop Indie, Electronic Pop",
+                "soundcloud":"https://soundcloud.com/www.soundcloud.com/bianca-m-abad"
             },
             {
-                "name" : "Jam Asuncion"
-
+                "name":"Geraldo Lorenzo Brillantes"
             },
             {
-                "name" : "Aldrienne Leonardo"
-
+                "name":"Sofia Ysabel Dearos"
             },
             {
-                "name" : "Zedric Bisenio"
-
+                "name":"Kelsea Nicolas"
             },
             {
-                "name" : "Sabine Zorrilla"
-
+                "name":"Kim Bernardino"
             },
             {
-                "name" : "Arianna Lopez"
-
+                "name":"Alfonso Gonzales"
             },
             {
-                "name" : "Sophia Policarpio"
-
+                "name":"Roberto Orosa"
             },
             {
-                "name" : "Joseph Uy"
-
+                "name":"Giulia Francesca Reyes"
             },
             {
-                "name" : "Isabella Santico"
-
+                "name":"Niccolo Yu"
             },
             {
-                "name" : "Yleina  Mitra"
-
+                "name":"Nina Alessi Rodriguez"
             },
             {
-                "name" : "Jasmine Manabilang"
-
+                "name":"Ally Fronda"
             },
             {
-                "name" : "Thea Daytoc"
-
+                "name":"Sophie Duavit"
             },
             {
-                "name" : "Martin Celiz"
-
+                "name":"Margarita Isabel Torres"
             },
             {
-                "name" : "Yohannah Castillo"
-
+                "name":"Thea Astley"
             },
             {
-                "name" : "Alicia Baquiran"
-
+                "name":"Tamara Cruz"
             },
             {
-                "name" : "Jillian Aliño"
-
+                "name":"Ace de Guzman"
             },
             {
-                "name" : "Cara Mamonon"
-
+                "name":"Sabina Dimayuga",
+                "soundcloud":"https://soundcloud.com/sabina-dimayuga"
             },
             {
-                "name" : "Eloiza Dirige"
-
+                "name":"Eloiza Glen Dirige"
             },
             {
-                "name" : "Sabrina  Dimayuga"
-
+                "name":"Mary Gem Escolastico"
             },
             {
-                "name" : "Gabrielle Cabrera"
-
+                "name":"John Carlo Lagac"
             },
             {
-                "name" : "Carlos  Ocampo"
-
+                "name":"Sophie Lua",
+                "soundcloud":"https://soundcloud.com/sophialua"
+            },
+            {
+                "name":"Nady Manza"
+            },
+            {
+                "name":"John Luke Montecillo"
+            },
+            {
+                "name":"Juan Crisostomo Parlade"
+            },
+            {
+                "name":"Aleksa Joelle Ross"
+            },
+            {
+                "name":"Hadassah Laean Angeles"
             }
         ]
     },
@@ -194,96 +183,81 @@
         "image strip":"/images/artists/571ddba72db89.jpg",
         "artists":[
             {
-                "name":"Adrian Reyes"
-
+                "name":"AJ Gatmaitan"
             },
             {
-                "name" : "Gregory Piencenaves"
-
+                "name":"Babu Dadap"
             },
             {
-                "name" : "Marcello Perez"
-
+                "name":"Javo Pacheco"
             },
             {
-                "name" : "Jonathan Fuñe"
-
+                "name":"Jigs Capinpuyan"
             },
             {
-                "name" : "Carlson Casenas"
-
+                "name":"Jo Alzate"
             },
             {
-                "name" : "Francine Calija"
-
+                "name":"Julia Topacio"
             },
             {
-                "name" : "Ynigo Almeda"
-
+                "name":"Matthew James Mendiola",
+                "genre":"Hard Rock, Pop Rock",
+                "soundcloud":"https://soundcloud.com/ibanezrocker-1"
             },
             {
-                "name" : "Carlos Samson"
-
+                "name":"Miguel Galicia",
+                "genre":"Acoustic, Blue, Folk, Soul",
+                "soundcloud":"https://soundcloud.com/miguelgalicia"
             },
             {
-                "name" : "Erick Reyes"
-
+                "name":"Rafael Ortile",
+                "genre":"Blues, Classic Rock, Metal, Pop Punk",
+                "soundcloud":"https://soundcloud.com/itsdamigz"
             },
             {
-                "name" : "Javier Esteban"
-
+                "name":"Migi Soriano",
+                "genre":"Guitar",
+                "soundcloud":"https://soundcloud.com/www.soundcloud.com/llyodph"
             },
             {
-                "name" : "Clayton Dejillas"
-
+                "name":"Milo Heraldo",
+                "soundcloud":"https://soundcloud.com/milo-heraldo"
             },
             {
-                "name" : "Alfonso Cabasag"
-
+                "name":"Marcelino Julio Vergel De Dios"
             },
             {
-                "name" : "Luis Amatong"
-
+                "name":"Juan Diego Morales"
             },
             {
-                "name" : "Francesca Aguilar"
-
+                "name":"Kaya Katigbak",
+                "soundcloud":"https://soundcloud.com/kayangkaya"
             },
             {
-                "name" : "Xzia Topacio"
-
+                "name":"Jacy Iago San Luis"
             },
             {
-                "name" : "Judd Jabla"
-
+                "name":"Matty Cruz"
             },
             {
-                "name" : "Arthur Gatmaitan"
-
+                "name":"TJ Lao"
             },
             {
-                "name" : "Martin Cuadrante"
-
+                "name":"Ben Marasigan"
             },
             {
-                "name" : "Luigi Capinpuyan"
-
+                "name":"Joseph Heindrick Melliza"
             },
             {
-                "name" : "Joseph Melliza"
-
+                "name":"Domz Mendoza"
             },
             {
-                "name" : "Tristan Jay Lao"
-
+                "name":"Rodrigo Dexter Perando"
             },
             {
-                "name" : "Damon Dadap"
-
-            },
-            {
-                "name" : "Alfonso  Villaraza"
-
+                "name":"Ziggy Bareng",
+                "soundcloud":"https://soundcloud.com/barengisaiah"
             }
         ]
     },
@@ -292,40 +266,36 @@
         "image strip":"/images/artists/571dda7a7c622.jpg",
         "artists":[
             {
-                "name":"Lance Lirio"
-
+                "name":"André Tan"
             },
             {
-                "name" : "Gabrielle Cortes"
-
+                "name":"Lan De Lara"
             },
             {
-                "name" : "Kyle Tabagan"
-
+                "name":"Markus Rosales"
             },
             {
-                "name" : "Jose Sacamos"
-
+                "name":"Tom Lévêque"
             },
             {
-                "name" : "Javier Miranda"
-
+                "name":"Z Pineda"
             },
             {
-                "name" : "Gabriel Dones"
+                "name":"Luigi Del Rosario",
+                "genre":"Alternative Rock, Indie, Jazz, Pop Punk"
+            },
 
+            {
+                "name":"Luigi Montelibano"
             },
             {
-                "name" : "Mariane Avendaño"
-
+                "name":"Gabriele Dominique Principe"
             },
             {
-                "name" : "Luigi Caluag"
-
+                "name":"Luis Enrico Uy"
             },
             {
-                "name" : "Markus Rosales"
-
+                "name":"Raymond Nodajera"
             }
         ]
     },
@@ -334,31 +304,59 @@
         "image strip":"/images/artists/571dda7a8cc1b.jpg",
         "artists":[
             {
-                "name":"Gimar Albay"
-
+                "name":"Lio Benson"
             },
             {
-                "name" : "Annika Aquilizan"
-
+                "name":"Hans Reyes"
             },
             {
-                "name" : "Christian Ng"
-
+                "name":"Julius Montano"
             },
             {
-                "name" : "Franz Montano"
-
+                "name":"Kathy Kazuho"
             },
             {
-                "name" : "Heinz Viray"
-
+                "name":"Kaya Katigbak"
             },
             {
-                "name" : "Maria Pabilona"
-
+                "name":"Matti Dizon"
             },
             {
-                "name" : "Matthew Dizon"
+                "name":"Jaime Luis Fevidal",
+                "genre":"Pop, Rock, Anything else"
+            },
+            {
+                "name":"Hoshaiah Domingo"
+            },
+            {
+                "name":"Nina Napala"
+            },
+            {
+                "name":"Ernesto Jose Gatdula"
+            },
+            {
+                "name":"Sophia Habana"
+            },
+            {
+                "name":"Juan Paolo Francisco De Guzman"
+            },
+            {
+                "name":"Jerome Isip"
+            },
+            {
+                "name":"Elgin Que"
+            },
+            {
+                "name":"Maria Jacyline Antiporda"
+            },
+            {
+                "name":"Jose Emmanuel Paz"
+            },
+            {
+                "name":"Pancho Enrique Santos"
+            },
+            {
+                "name":"Pio Cruz"
             }
         ]
     },
@@ -367,39 +365,49 @@
         "image strip":"/images/artists/571ddc7bb9f77.jpg",
         "artists":[
             {
-                "name":"Dio Calpatura"
-
+                "name":"Easel Manes"
             },
             {
-                "name" : "Niku Pastrana"
-
+                "name":"Eb Ilagan"
             },
             {
-                "name" : "Willie Yu"
-
+                "name":"Ice Espino"
             },
             {
-                "name" : "Timothy Pe"
-
+                "name":"Nathan Barlis"
             },
             {
-                "name" : "Maria  Gonzalez"
-
+                "name":"Rixian Sy"
             },
             {
-                "name" : "Maria Abrahan"
-
+                "name":"Simona Fernandez"
             },
             {
-                "name" : "Nathan Barlis"
-
+                "name":"Paul Binag"
             },
             {
-                "name" : "Easel Manes"
-
+                "name":"Joshua Tan"
             },
             {
-                "name" : "Elizabeth Ilagan"
+                "name":"Yumi Briones"
+            },
+            {
+                "name":"Robin Aron James Rubina"
+            },
+            {
+                "name":"Nina Guinto"
+            },
+            {
+                "name":"Alec Adeva"
+            },
+            {
+                "name":"Joshua Taningco"
+            },
+            {
+                "name":"Mark Tan"
+            },
+            {
+                "name":"Wesley Carag"
             }
         ]
     },
@@ -408,23 +416,44 @@
         "image strip":"/images/artists/571ddc5ebf3a1.jpg",
         "artists":[
             {
-                "name":"Lucia Montinola"
-
+                "name":"Iyo Bello"
             },
             {
-                "name" : "Wenjun Yan"
-
+                "name":"Jill Lasquety"
             },
             {
-                "name" : "Kimi Antonio"
-
+                "name":"Regina Deleste"
             },
             {
-                "name" : "Maria Lasquety"
-
+                "name":"Sean Lanz Corpuz",
+                "genre":"Harmonica",
+                "soundcloud":"https://soundcloud.com/sean-lanz-corpuz"
             },
             {
-                "name" : "Emilio Bello"
+                "name":"Iggy Franco",
+                "genre":"Violin"
+            },
+            {
+                "name":"Joshe Tiu"
+            },
+            {
+                "name":"Don Viovicente"
+            },
+            {
+                "name":"Ivan Ronaldo Cruz"
+            },
+            {
+                "name":"Carl Benedict Tumang"
+            },
+            {
+                "name":"Reynaldo III Cuadra"
+            },
+            {
+                "name":"Cian Bruce Laguesma",
+                "genre":"Violin"
+            },
+            {
+                "name":"Ana Isabelle Chua"
             }
         ]
     },
@@ -433,47 +462,92 @@
         "image strip":"/images/artists/59f679bbdb48a.jpg",
         "artists":[
             {
-                "name":"Ivan Severino"
-
+                "name":"Chris Ocier"
             },
             {
-                "name" : "Thomas Pajarillaga"
-
+                "name":"Chris Venegas"
             },
             {
-                "name" : "Christopher Ocier"
-
+                "name":"Raffy Briones"
             },
             {
-                "name" : "Luis Montales"
-
+                "name":"Raf Reyes (Oursquare)",
+                "genre":"Lo-Fi, Hip Hop, Soul/Jazz",
+                "soundcloud":"https://soundcloud.com/OurSquare"
             },
             {
-                "name" : "Jason Fernandez"
-
+                "name":"Jamey Coniconde",
+                "soundcloud":"https://soundcloud.com/jameymusic"
             },
             {
-                "name" : "Mark Beltran"
-
+                "name":"Jose Eugene Yaptangco (gny)",
+                "soundcloud":"https://soundcloud.com/jee-knee"
             },
             {
-                "name" : "Adam Martinez"
-
+                "name":"Jacob Mendoza",
+                "soundcloud":"https://soundcloud.com/jacobdoza"
             },
             {
-                "name" : "Robert Chinjen"
-
+                "name":"Lui Pimentel",
+                "soundcloud":"https://soundcloud.com/luiwithadot"
             },
             {
-                "name" : "Javier Lumawig"
-
+                "name":"Gerard Villaluz (Luze)",
+                "soundcloud":"https://soundcloud.com/l-u-z-e"
             },
             {
-                "name" : "Jose Laurel"
-
+                "name":"Blu Encarnacion"
             },
             {
-                "name" : "Robert Laurel"
+                "name":"Jm Gonzalez",
+                "soundcloud":"https://soundcloud.com/jm-gonzalez"
+            },
+            {
+                "name":"Paolo De Ocampo"
+            },
+            {
+                "name":"Tamia Reodica (Grrl Cloud)",
+                "soundcloud":"https://soundcloud.com/grrlcloud"
+            },
+            {
+                "name":"Rafael Reyes"
+            },
+            {
+                "name":"Jeremy Jasper Acosta (J-Coasta)",
+                "soundcloud":"https://soundcloud.com/d_j-coasta"
+            },
+            {
+                "name":"Jason Fernandez (Hazylazy)",
+                "soundcloud":"https://soundcloud.com/hazy_lazy"
+            },
+            {
+                "name":"Patricia Kay Laudencia"
+            },
+            {
+                "name":"Eduardo Mitra (Duds)",
+                "soundcloud":"https://soundcloud.com/dudsmitra"
+            },
+            {
+                "name":"Luis Alfonso Montales",
+                "soundcloud":"https://soundcloud.com/ahjussiph"
+            },
+            {
+                "name":"Hikaru Murakami"
+            },
+            {
+                "name":"Marc Joaquin Opulencia",
+                "soundcloud":"https://soundcloud.com/joaquinopulencia"
+            },
+            {
+                "name":"Jonathan Rubilla (Hicci)",
+                "soundcloud":"https://soundcloud.com/hiccigang"
+            },
+            {
+                "name":"Anja Javier",
+                "soundcloud":"https://soundcloud.com/anjavier"
+            },
+            {
+                "name":"Ryan Anthony Racela"
             }
         ]
     },
@@ -481,45 +555,15 @@
     {
         "role":"sound engineer",
         "image strip":"/images/artists/59f679bbdb48a.jpg",
-        "artists": [
+        "artists": [ 
             {
-                "name":"Markus Rosales"
-
+                "name":"EJ Ongsiako"
             },
             {
-                "name" : "Javier Lumawig"
-
+                "name":"Hilary Regalado"
             },
             {
-                "name" : "Jose Laurel"
-
-            },
-            {
-                "name" : "Miguel Coroza"
-
-            },
-            {
-                "name" : "Matthew Profeta"
-
-            },
-            {
-                "name" : "Stanley Guevarra"
-
-            },
-            {
-                "name" : "Romar Ramos"
-
-            },
-            {
-                "name" : "Josemaria Layug"
-
-            },
-            {
-                "name" : "Emilio Gonzales"
-
-            },
-            {
-                "name" : "Hillary Regalado"
+                "name":"Marcus Lao"
             }
         ]
     }

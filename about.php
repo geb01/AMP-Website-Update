@@ -64,18 +64,6 @@
 					</div>
 				</div>
 			</section>
-			<section class='transition' id='core-competencies'>
-				<div class='wrapper-core'>
-					<h1 class='feature-display'>Core Competencies</h1>
-					<h1>Core Competencies</h1>
-
-					<div class='feature-core'>
-						<p>Music Production: Providing members opportunities to show their talents and skills through their output within and beyond the organization.</p>
-						<p>Music Appreciation: Creating avenues which aim to foster a sense of appreciation and critical thinking of the universality and impact of music through the initiation of discourse on its different forms in our productions, online platforms, and other related avenues.</p>
-						<p>Music Development: Honing the talents of members through skills training and development in different competencies in relation to music.</p>
-					</div>
-				</div>
-			</section>
 			<section class='transition' id='executive-board'>
 				<div class='wrapper'>
 					<h1 class='dropdown-button'>The Executive Board<div class='arrow'></div></h1>
