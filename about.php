@@ -142,7 +142,6 @@
 					<?php } ?>
 				</div>
 			</section>
-<<<<<<< HEAD
 		<section class='transition' id='projects'>
 			<div class='wrapper'>
 				<h1>Projects</h1>
@@ -189,8 +188,6 @@
 		</section>
 
 
-=======
->>>>>>> EB-no-image
 			<?php
 				/* createDividers([
 					['Bands', 'images/bands.jpg', 'artists.php'],
