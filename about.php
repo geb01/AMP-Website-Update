@@ -64,18 +64,6 @@
 					</div>
 				</div>
 			</section>
-			<section class='transition' id='core-competencies'>
-				<div class='wrapper-core'>
-					<h1 class='feature-display'>Core Competencies</h1>
-					<h1>Core Competencies</h1>
-
-					<div class='feature-core'>
-						<p>Music Production: Providing members opportunities to show their talents and skills through their output within and beyond the organization.</p>
-						<p>Music Appreciation: Creating avenues which aim to foster a sense of appreciation and critical thinking of the universality and impact of music through the initiation of discourse on its different forms in our productions, online platforms, and other related avenues.</p>
-						<p>Music Development: Honing the talents of members through skills training and development in different competencies in relation to music.</p>
-					</div>
-				</div>
-			</section>
 			<section class='transition' id='executive-board'>
 				<div class='wrapper'>
 					<h1 class='dropdown-button'>The Executive Board<div class='arrow'></div></h1>
@@ -98,9 +86,7 @@
 				</div>
 				<div class='feature-wrapper'><?php
 					$id = 0;
-					foreach ($eb as &$executive) {
-						$image = $executive['image'];
-						if ($image) $image = "src='$image'"; ?>
+					foreach ($eb as &$executive) {?>
 						<div class='feature-display' index='<?php echo $id++; ?>'>
 							<img class='feature-pic' <?php echo $image; ?>>
 							<div class='feature-description'>
@@ -136,9 +122,7 @@
 				</div>
 				<div class='feature-wrapper'><?php
 					$id = 0;
-					foreach ($department as &$dep) {
-						$image = $dep['image'];
-						if ($image) $image = "src='$image'"; ?>
+					foreach ($department as &$dep) { ?>
 						<div class='feature-display' index='<?php echo $id++; ?>'>
 							<img class='feature-pic' <?php echo $image; ?>>
 							<div class='feature-description'>
@@ -181,14 +165,10 @@
 			<div class='feature-wrapper'><?php
 				$id = 0;
 				foreach ($project as &$proj) {
-					$image = $proj['image'] ?? null;
-					$iframe = $proj['iframe'] ?? null;
-					if ($image) $image = "class='feature-pic' src='$image'"; 
-					if ($iframe) $iframe = "src='$iframe'"; ?>
+					$image = $proj['image'];
+					if ($image) $image = "src='$image'"; ?>
 					<div class='feature-display' index='<?php echo $id++; ?>'>
-						<?php if ($image) echo "<img class='feature-pic' <?php echo $image; ?>>";
-						if ($iframe) echo "<iframe class='feature-vid' <?php echo $iframe; ?> title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'></iframe>";
-						?>
+						<img class='feature-pic' <?php echo $image; ?>>
 						<div class='feature-description'>
 							<div><?php
 								$heads = array();
