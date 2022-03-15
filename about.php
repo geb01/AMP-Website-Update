@@ -86,9 +86,7 @@
 				</div>
 				<div class='feature-wrapper'><?php
 					$id = 0;
-					foreach ($eb as &$executive) {
-						$image = $executive['image'];
-						if ($image) $image = "src='$image'"; ?>
+					foreach ($eb as &$executive) {?>
 						<div class='feature-display' index='<?php echo $id++; ?>'>
 							<img class='feature-pic' <?php echo $image; ?>>
 							<div class='feature-description'>
@@ -124,9 +122,7 @@
 				</div>
 				<div class='feature-wrapper'><?php
 					$id = 0;
-					foreach ($department as &$dep) {
-						$image = $dep['image'];
-						if ($image) $image = "src='$image'"; ?>
+					foreach ($department as &$dep) { ?>
 						<div class='feature-display' index='<?php echo $id++; ?>'>
 							<img class='feature-pic' <?php echo $image; ?>>
 							<div class='feature-description'>
@@ -146,6 +142,7 @@
 					<?php } ?>
 				</div>
 			</section>
+<<<<<<< HEAD
 		<section class='transition' id='projects'>
 			<div class='wrapper'>
 				<h1>Projects</h1>
@@ -192,6 +189,8 @@
 		</section>
 
 
+=======
+>>>>>>> EB-no-image
 			<?php
 				/* createDividers([
 					['Bands', 'images/bands.jpg', 'artists.php'],

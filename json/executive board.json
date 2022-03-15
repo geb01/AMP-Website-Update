@@ -1,6 +1,5 @@
 [
     {
-        "image":"/images/about/eb/president.jpg",
         "member":{
             "name":"Kaelen Andrea S. Reyes",
             "year":2017,
@@ -10,7 +9,6 @@
         "description":"The President oversees and coordinates all activities of the organization with regards to aspects and functions related but not limited to administrative, finance, corporate relations, member development and formation, artist management, and the core competencies of the organization. He represents the organization to the different school offices and makes sure that the voice of the organization is heard."
     },
     {
-        "image":"/images/about/eb/evp_admin.jpg",
         "member":{
             "name":"Hillary Anne T. Regalado",
             "year":2018,
@@ -20,7 +18,6 @@
         "description":"The Executive VP for Administration manages the overall database of the organization. She is in charge of filing and collating all organization documents, managing the calendar of events of the organization, data collection and dissemination, keeping track of the deadlines of the Executive and Central board officers, taking the minutes during major meetings of both the Executive and Central board meetings, as well as scheduling the meetings held by the Executive board officers."
     },
     {
-        "image":"/images/about/eb/default.jpg",
         "member":{
             "name":"Eloiza Glen M. Dirige",
             "year":2017,
@@ -30,7 +27,6 @@
         "description":"The VP for Internal Affairs takes care of all relations within the organization. She manages and attends to all Executive and Central Board officers' concerns and general welfare within the organization, manages and monitors the execution of Executive and Central Board and departmental Codes of Internal Procedures, maintains communications with the Central Board regarding details of all ongoing internal projects, plans and executes programs for leadership formation catered to the members of the organization."
     },
     {
-        "image":"/images/about/eb/vp_memdev.jpg",
         "member":{
             "name":"Pancho Enrique M. Santos",
             "year":2016,
@@ -40,7 +36,6 @@
         "description":"The VP for Member Development coordinates with all Central Board Department Heads with formulating the different training curriculum of each department, plans and executes interdepartmental projects,, monitors and tracks the execution of all training programs, including mentorship and workshops of the different departments, and coordinates with department heads to create workshops catered to teaching members the essential and relative skills and competencies of each department."
     },
     {
-        "image":"/images/about/eb/vp_projman.jpg",
         "member":{
             "name":"Sophia Ysabelle N. Policarpio",
             "year":2018,
@@ -50,7 +45,6 @@
         "description":"The VP for Project Management facilitates the application and appointment process for recruiting heads for all projects before the start of the first semester, conducts at least one project head training seminar and releases a general project manual to all project heads before the start of the first semester. She also keeps track of the progress of the different projects and updates the Executive and Central Board accordingly, conducts post project evaluations and focused group discussions on the performance of the project, project team, and project heads, as well as step in as the mediator should major problems that the project team cannot handle on their own occur."
     },
     {
-        "image":"/images/about/eb/vp_externals.jpg",
         "member":{
             "name":"Neale Christian T. Tiu",
             "year":2018,
@@ -60,7 +54,6 @@
         "description":"The VP for External Affairs facilitates all external affairs and partnerships of the organization by serving as the main representative, mediator, and negotiator. He maintains communications with the Central and Executive Board regarding the details of all ongoing external affairs including partnerships, oversee and maintain communications with the alumni of the organization and coordinates with them for matters involving relations, partnerships and tie-ups. He also monitors and oversees the activities of the Artist Management and Sound Engineering Department."
     },
     {
-        "image":"/images/about/eb/avp_externals.jpg",
         "member":{
             "name":"Julliana Ezra B. Fernandez",
             "year":2018,
@@ -70,7 +63,6 @@
         "description":"The AVP for External Affairs manages all tie-ups of the organization by coordinating with both the clients of the organization and the Artist Management Department. She serves as the main representative for musicians sent out for tie-up deployments,  as well as manages and ensures the execution and dissemination of the Ateneo Musicians’ Pool newsletter."
     },
     {
-        "image":"/images/about/eb/vp_comms.jpg",
         "member":{
             "name":"Kelsey Danielle B. Escareal",
             "year":2018,
@@ -80,7 +72,6 @@
         "description":"The VP for Communications manages the branding of the whole organization by coordinating with and overseeing the Documentation and Publications department, Design department, and Strategic Planning of Promotions department. He oversees and approves for dissemination all organizational outputs released to the public via all forms of media. facilitate the management of the website.n"
     },
     {
-        "image":"/images/about/eb/vp_finance.jpg",
         "member":{
             "name":"Joseph Heindrick H. Mellizal",
             "year":2017,
@@ -90,7 +81,6 @@
         "description":"The VP for Finance serves as the treasurer of the organization. She manages the DCB account in coordination with the Central Accounting Office and the Office of Student Activities of the Loyola Schools in handling the organization’s funds, directly handles the financial planning, procurement, and investment of funds. She also delegates authority for receipt and disbursement of funds, as well as analyzes financial records to forecast budget requirements and the future financial position of the organization."
     },
     {
-        "image":"/images/about/eb/avp_finance.jpg",
         "member":{
             "name":"Audrey Kimberly W. Cabrera",
             "year":2017,
