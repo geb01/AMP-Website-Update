@@ -240,7 +240,7 @@
 				<img src='/images/icons/footer_logo.png'/>
 			</div>
 			<div id = 'footer-center'>
-				<ul>
+				<ul style = "list-style-type: none; display: inline-block;">
 					<li><a href = "https://www.facebook.com/ateneomusicianspool" target = "_blank"><img src= "/images/icons/facebook-icon.png"></a></li>
 					<li><a href = "https://www.twitter.com/AMPAteneo" target = "_blank"><img src= "/images/icons/twitter-icon.png"></a></li>
 					<li><a href = "https://www.instagram.com/ateneomusicianspool" target = "_blank"><img src= "/images/icons/instagram-icon.png"></a></li>
