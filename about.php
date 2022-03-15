@@ -146,7 +146,53 @@
 					<?php } ?>
 				</div>
 			</section>
-			<?php 
+		<section class='transition' id='projects'>
+			<div class='wrapper'>
+				<h1>Projects</h1>
+				<!--
+					<div class='arrow down dropdown-button'></div>
+					<p class='hidden-dropdown'>
+					</p>-->
+			</div>
+		</section>
+		<section class='feature'>
+			<div class='feature-labels'><?php
+				$project = json('projects');
+				$id = 0;
+				foreach ($project as &$proj) { ?>
+					<div index='<?php echo $id++; ?>'>
+						<div class='label'><?php echo $proj['name']; ?></div>
+						<div class='arrow right'></div>
+					</div>
+				<?php } ?>
+			</div>
+			<div class='feature-wrapper'><?php
+				$id = 0;
+				foreach ($project as &$proj) {
+					$image = $proj['image'];
+					if ($image) $image = "src='$image'"; ?>
+					<div class='feature-display' index='<?php echo $id++; ?>'>
+						<img class='feature-pic' <?php echo $image; ?>>
+						<div class='feature-description'>
+							<div><?php
+								$heads = array();
+									foreach (get($proj, 'heads', array()) as $head)
+										if (isset($head['name']))
+											$heads[] = $head['name'];
+									// code below won't work in PHP 5.2
+									// $heads = array_map(function($heads) {return $heads['name'];}, $proj['heads']);
+									echo "<h1>$proj[name]</h1>";
+									echo "<h2>" . implode(' / ', $heads) . "</h2>";
+									echo paragraph($proj['description']);
+								?></div>
+							</div>
+					</div>
+				<?php } ?>
+			</div>
+		</section>
+
+
+			<?php
 				/* createDividers([
 					['Bands', 'images/bands.jpg', 'artists.php'],
 					['Soloists', 'images/soloists.jpg', 'soloists.php']

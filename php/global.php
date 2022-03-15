@@ -1,13 +1,13 @@
 <?php
-	
+
 	$minify = $_SERVER['HTTP_HOST'] != 'localhost';
 	$minify = false;
 	define('FILENAME', basename($_SERVER['SCRIPT_FILENAME'], '.php'));
 
 	/**
 	 * Checks if needle is string is a prefix of the other string.
-	 * @param string &$haystack 
-	 * @param string $needle 
+	 * @param string &$haystack
+	 * @param string $needle
 	 * @return string
 	 */
 	function starts_with($haystack, $needle) {
@@ -18,8 +18,8 @@
 
 	/**
 	 * Checks if needle is string is a suffix of the other string.
-	 * @param string &$haystack 
-	 * @param string $needle 
+	 * @param string &$haystack
+	 * @param string $needle
 	 * @return string
 	 */
 	function ends_with($haystack, $needle) {
@@ -75,7 +75,7 @@
 
 	/**
 	 * References to a source code.
-	 * @param string $link 
+	 * @param string $link
 	 * @return void
 	 * Possible extensions: *.(php|css|js).
 	 * Automatically prepends the address with the extension (e.g. "file.php" => "php/file.php").
@@ -108,7 +108,7 @@
 	$auth_key_cache = null;
 	/**
 	 * Checks if password is the same as the authentication key in the database.
-	 * @param string $password 
+	 * @param string $password
 	 * @return boolean
 	 */
 	function validPassword($password) {
@@ -239,9 +239,18 @@
 			<div id='footer-left'>
 				<img src='/images/icons/footer_logo.png'/>
 			</div>
+			<div id = 'footer-center'>
+				<ul>
+					<li><a href = "https://www.facebook.com/ateneomusicianspool" target = "_blank"><img src= "/images/icons/facebook-icon.png"></a></li>
+					<li><a href = "https://www.twitter.com/AMPAteneo" target = "_blank"><img src= "/images/icons/twitter-icon.png"></a></li>
+					<li><a href = "https://www.instagram.com/ateneomusicianspool" target = "_blank"><img src= "/images/icons/instagram-icon.png"></a></li>
+					<li><a href = "https://www.behance.net/AMPAteneo" target = "_blank"><img src= "/images/icons/behance-icon.png"></a></li>
+					<li><a href = "mailto: amp.ls@obf.ateneo.edu" target = "_blank"><img src= "/images/icons/gmail-icon.png"></a></li>
+				</ul>
+			</div>
 			<div id='footer-right'>
 				<p>Ateneo de Manila University<p>
-				<p>ateneomusicianspool@gmail.com<p>
+				<p>amp.ls@obf.ateneo.edu<p>
 			</div>
 		</footer>
 	<?php }
@@ -259,7 +268,7 @@
 
 	/**
 	 * Convenient method for normalizing HTML attributes. replaces ' ' with '-' and removes all single quotes.
-	 * @param string $text text you want to normalize 
+	 * @param string $text text you want to normalize
 	 * @return string
 	 */
 	function propertize($text) {
@@ -288,7 +297,7 @@
 		$nameStack = array();
 		$arrayStack = array();
 		$tabStack = array();
-		
+
 		foreach ($lines as $line) {
 			$rep = preg_replace('/[\x00-\x1F\x80-\xFF]/', '', str_replace('ñ', '&ntilde;', $line)); // remove spec characters
 			if (strlen($rep) == 0) continue; // ignore empty line
@@ -299,16 +308,16 @@
 
 			while (count($tabStack) > 0 && $tabStack[count($tabStack) - 1] > $tabCount) {
 				if (count($arrayStack[count($arrayStack) - 1]) > 0) {
-					
+
 					if (end($arrayStack[count($arrayStack) - 1]) == array()) { // insert name only, not a mapping
 						array_push($arrayStack[count($arrayStack) - 2][count($arrayStack[count($arrayStack) - 2]) - 1], array_pop($nameStack[count($nameStack) - 1]));
 						array_pop($arrayStack[count($arrayStack) - 1]);
 					}
-					
+
 					else  // insert mapping name => array
 
 						$arrayStack[count($arrayStack) - 2][count($arrayStack[count($arrayStack) - 2]) - 1][array_pop($nameStack[count($nameStack) - 1])] = array_pop($arrayStack[count($arrayStack) - 1]);
-				
+
 				} else {
 					array_pop($nameStack);
 					array_pop($arrayStack);
@@ -326,15 +335,15 @@
 			}
 		}
 
-		
+
 		while (count($tabStack) > 1) {
 			if (count($arrayStack[count($arrayStack) - 1]) > 0) {
-				
+
 				if (end($arrayStack[count($arrayStack) - 1]) == array()) { // insert name only, not a mapping
 					array_push($arrayStack[count($arrayStack) - 2][count($arrayStack[count($arrayStack) - 2]) - 1], array_pop($nameStack[count($nameStack) - 1]));
 					array_pop($arrayStack[count($arrayStack) - 1]);
 				}
-				
+
 				else  // insert mapping name => array
 
 					$arrayStack[count($arrayStack) - 2][count($arrayStack[count($arrayStack) - 2]) - 1][array_pop($nameStack[count($nameStack) - 1])] = array_pop($arrayStack[count($arrayStack) - 1]);
@@ -344,7 +353,7 @@
 				array_pop($tabStack);
 			}
 		}
-		
+
 		if (count($arrayStack) == 0)
 			return array();
 
