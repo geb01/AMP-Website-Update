@@ -74,8 +74,8 @@
     {
         "name":"Clamshell Boxes",
         "description":"A 5-piece indie-pop band infused with blues, soul and ballads, The Clamshell Boxes invites their listeners to embrace the emotions they encounter along with the experiences they will face as life goes on.",
-        "image":"/images/artists/default.jpg",
-        "image strip":"/images/artists/default.jpg",
+        "image":"/images/artists/clamshellboxes.jpg",
+        "image strip":"/images/artists/clamshellboxes.jpg",
         "contact":["0917 303 0391"],
         "links":["https://www.facebook.com/TheClamshellBoxesBand",
                  "https://twitter.com/The_CBX?s=09",
@@ -105,8 +105,8 @@
     {
         "name":"Lagoon",
         "description":"Lagooon started out in late 2017 between rhythm guitarist Adrian Dy, vocalist Dil Bukuhan, lead guitarist Juan Aruego, and drummer Rau Layug, high school friends who were looking for a platform to share the joy of making and playing music. Three years after their first jam session in Rau's bedroom, with the addition of bassist Randy Begtang, the Manila-based band has steadily built its own image and amassed a following that continues to grow, performing in all sorts of events around Metro Manila. <br /> As a group with musical tastes that constantly grows and evolves, Lagooon's alternative indie-rock sound has been further influenced by jazz, pop, hip-hop, R&B and shoegaze, among others. This has led to their distinct, lively tone that has been accentuated with sentimental lyrics and groovy riffs.<br /> The boys, along with their mates in Kennedy and Lucy Dee, formed RausHaus Records in the summer of 2020. Here, they'll be releasing their first single, 'Oceanside', a song that reminisces what summer could've been like for them and their friends as high school graduates.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
+        "image":"/images/artists/default.jpg",
+        "image strip":"/images/artists/default.jpg",
         "links":[
             "https://soundcloud.com/lago0on",
             "https://twitter.com/lagooon3",
@@ -133,8 +133,8 @@
     {
         "name":"Lucy Dee",
         "description":"From rehearsing in school corridors, to performing in front of large crowds amassing thousands of Soundcloud plays, Lucy Dee has come a long way since their inception back in 2017. <br /> With all four members coming from different musical backgrounds hailing from indie, metal, classic rock, pop, and R&B, Lucy Dee is able to write and produce soulful indie rock music, all while integrating each member's unique tastes and sensibilities. Since their formation, the boys have already racked up a ton of experience in the local music scene, having already played gigs in various bars, weddings, debuts, school fairs, and contests all around Metro Manila.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
+        "image":"/images/artists/lucydee.jpg",
+        "image strip":"/images/artists/lucydee.jpg",
         "links":[
             "https://www.instagram.com/lucydee_ph/",
             "https://www.facebook.com/LucyDeePH",
@@ -161,8 +161,8 @@
     {
         "name":"NGL",
         "description":"NGL (not gonna lie) is an alternative-pop duo that has emerged from the depths of the Katipunan traffic. On the left side of the road comes the pop-fueled experimental scientist/movie character, Mika Santelices, and on the right side is the composed, rock-inspired, all-around-chill-dude, Q Ilagan. Their sounds may clash at one point but the outcome is unapologetically honest.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
+        "image":"/images/artists/default.jpg",
+        "image strip":"/images/artists/default.jpg",
         "members": {
             "Q Ilagan" : [
                 "Vocals",
@@ -330,8 +330,8 @@
     {
         "name":"Tokyo Escape",
         "description":"Tokyo Escape is a 4-piece punk band with roots in emo, hardcore, and indie rock. Based in Rizal, formed in 2019.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
+        "image":"/images/artists/tokyoescape.jpg",
+        "image strip":"/images/artists/tokyoescape.jpg",
         "links":[
             "https://www.facebook.com/tokyoescape.ph",
             "https://www.youtube.com/channel/UCp0TMgj3u1f5TYzy-jN8CJw",
@@ -361,8 +361,8 @@
     {
         "name":"Wonky Donkey",
         "description":"Goofy, Wonky, Donkey.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
+        "image":"/images/artists/wonkydonky.jpg",
+        "image strip":"/images/artists/wonkydonky.jpg",
         "links":[
             "https://www.instagram.com/_wonkydonkey/"
         ],
@@ -385,8 +385,8 @@
     {
         "name":"Yakal Street",
         "description":"Yakal Street is a six-piece band based in Manila. The group is composed of students who all came from the same high school; Lourdes School of Mandaluyong. They started playing music together for fun in school however, in the year 2018, they finally decided to make things official by forming a band. Despite of being beginners, Yakal Street has already performed for numerous intra-school events.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
+        "image":"/images/artists/yakalstreet.png",
+        "image strip":"/images/artists/yakalstreet.png",
         "links":[
             "https://www.facebook.com/yakalstreetmusic"
         ],
