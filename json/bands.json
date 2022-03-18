@@ -31,7 +31,6 @@
                     "Cyril Verdad" : ["Keyboard"]
         }
     },
-
     {
         "name":"Blue Suede",
         "description":"We bring a new refreshing level of blues, incorporating Filipino lyrics into our vibe.",
@@ -48,343 +47,6 @@
                     "Arvin Petalver" : ["Vocals"],
                     "Elgin Que" : ["Drums"],
                     "Wesley Carag" : ["Keys"]
-        }
-    },
-
-    {
-        "name":"Cherry Cola",
-        "description":"80's dance pop.",
-        "image":"/images/artists/default.jpg",
-        "image strip":"/images/artists/default.jpg",
-        "contact":["0905 244 5114"],
-        "links":[""],
-        "members": {"Gwen Guck" : ["Bass", "Backing Vocals"],
-                    "Diego Redobalado" : ["Lead Vocals", "Rhythm Guitar"],
-                    "Thirdy Saruca" : ["Lead Guitar", "Backing Vocals"],
-                    "Heinz Viray" : ["Drums"]
-        }
-    },
-
-    {
-        "name":"Clamshell Boxes",
-        "description":"A 5-piece indie-pop band infused with blues, soul and ballads, The Clamshell Boxes invites their listeners to embrace the emotions they encounter along with the experiences they will face as life goes on.",
-        "image":"/images/artists/default.jpg",
-        "image strip":"/images/artists/default.jpg",
-        "contact":["0917 303 0391"],
-        "links":["https://www.facebook.com/TheClamshellBoxesBand",
-                 "https://twitter.com/The_CBX?s=09",
-                 "https://instagram.com/the_cbx",
-                 "https://soundcloud.com/clamshell-boxes"],
-        "members": {"Abe Abueta" : ["Bass", "Vocals"],
-                    "Ivan Cruz" : ["Saxophone"],
-                    "Babu Dadap" : ["Lead Guitar", "Vocals"],
-                    "Just Mosquera" : ["Drums"],
-                    "Ryan Orlas" : ["Rhythm Guitar", "Vocals"]
-        }
-    },
-
-    {
-        "name":"Great Dane",
-        "description":"Composed of members from Manila and Singapore, The Great Dane is a four-piece band that fuses modern soul, funky blues, and alternative rock.",
-        "image":"/images/artists/GreatDane.jpg",
-        "image strip":"/images/artists/GreatDane.jpg",
-        "contact":["0945 113 5744"],
-        "links":["https://www.facebook.com/thegreatdaneph/",
-                 "https://www.open.spotify.com/artist/0kBu4TScyrcXugROuOFkqe?si=M-hBghhlS-GZE8NUrqjsZg"],
-        "members": {"Chris Anzanza" : ["Vocals"],
-                    "Brenan Ng" : ["Guitar"],
-                    "Christian Ng" : ["Drums"],
-                    "Joaquin Reyes" : ["Bass"]
-        }
-    },
-
-    {
-        "name":"Alyson",
-        "description":"Ang bandang pwede na.",
-        "image":"/images/artists/alyson.jpg",
-        "image strip":"/images/artists/alyson.jpg",
-        "contact":[
-            "9278339264"
-        ],
-        "links":[
-            "https://facebook.com/heyitsalyson",
-            "https://twitter.com/alysonpinas",
-            "https://soundcloud.com/alysonpinas"
-        ],
-        "members":{
-            "Pio Ligot":[
-                "Vocals",
-                "Rhythm Guitar"
-            ],
-            "Marcus Mababangloob":[
-                "Drums",
-                "Backup Vocals",
-                "Keyboard"
-            ],
-            "Miguel Erfe":[
-                "Bass"
-            ],
-            "Luis Uy":[
-                "Lead Guitar"
-            ]
-        }
-    },
-    {
-        "name":"Bottom Space",
-        "description":"6-piece Alternative Indie-Rock band from Ateneo. One that you should listen to when your life doesn't make sense because we too, try to make sense of things that don't.",
-        "image":"/images/artists/bottom-space.jpg",
-        "image strip":"/images/artists/bottom-space.jpg",
-        "links":[
-            "https://facebook.com/bottomspace",
-            "https://twitter.com/bottom_space",
-            "https://soundcloud.com/bottomspace"
-        ],
-        "members":{
-            "Ziggy Bareng":[
-                "Rhythm Guitar"
-            ],
-            "Gab Opao":[
-                "Lead Guitar"
-            ],
-            "Mikho Pelingon":[
-                "Drums"
-            ],
-            "Diego Drillon":[
-                "Bass"
-            ],
-            "Arian de las Alas":[
-                "Vocals"
-            ]
-        }
-    },
-    {
-        "name":"Indayo",
-        "description":"Indayo is an indie-alternative, folk-pop band from the Philippines. They have been around the music scene, jumping from one gig to another since 2013. They sing anthems of hope, stories on love and life lessons which people can resonate with. The band consists of Lia Alfonso on vocals, Cha Umali on lead guitar, Mela Roque on cello, Cita Alfonso on drums, Melissa Ramos on the violin, Pam Mamaril on percussion and Babu Dadap on bass.",
-        "image":"/images/artists/indayo.jpg",
-        "image strip":"/images/artists/indayo.jpg",
-        "links":[
-            "https://facebook.com/Indayomusic",
-            "https://twitter.com/IndayoMusic",
-            "https://www.instagram.com/indayomusic"
-        ],
-        "members":{
-            "Cha Umali":[
-                "Lead Guitar"
-            ],
-            "Lia Alfonso":[
-                "Vocals"
-            ],
-            "Melissa Ramos":[
-                "Violin"
-            ],
-            "Mela Roque":[
-                "Cello"
-            ],
-            "Cita Alfonso":[
-                "Drums"
-            ],
-            "Pam Mamaril":[
-                "Percussion"
-            ],
-            "Babu Dadap":[
-                "Bass"
-            ]
-        }
-    },
-    {
-        "name":"K/L",
-        "description":"K/L is an acoustic duo from Quezon City made of bestfriends Laean Angeles and Kim Bernardino. From merely doing acoustic covers in high school, they've since become an odd mix of their drastically different musical influences that write their own heart-wrenching originals by a three-step process: iyak, sulat, iyak.",
-        "image":"/images/artists/kslashl.jpg",
-        "image strip":"/images/artists/kslashl.jpg",
-        "links":[
-            "https://facebook.com/kslashl",
-            "https://twitter.com/kslashl"
-        ],
-        "members":{
-            "Laean Angeles":[
-                "Guitar & Vocals"
-            ],
-            "Kim Bernardino":[
-                "Vocals"
-            ]
-        }
-    },
-    {
-        "name":"Kremesoda",
-        "description":"Formed in the heart of Katipunan, Kremesoda is a 4-piece alternative rock band with shades of brit-pop, indie rock, and homegrown Pinoy music. Their songs, which consistently revolved around the themes of adolescent love, heartbreak, and unsaid thoughts, continue to evolve and mature as they grow up.",
-        "image":"/images/artists/Kremesoda.jpg",
-        "image strip":"/images/artists/Kremesoda.jpg",
-        "contact":[
-            "0917 302 3528"
-        ],
-        "links":[
-            "https://facebook.com/Kremesoda",
-            "https://www.twitter.com/KremesodaPH",
-            "https://www.instagram.com/KremesodaPH",
-            "https://www.soundcloud.com/kreme-soda",
-            "https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf?si=0rDl_yPZQa6aJogzRrXiyw"
-        ],
-        "members":{
-            "Toots Orosa":[
-                "Vocals",
-                "Rhythm Guitar"
-            ],
-            "Lan De Lara":[
-                "Bass"
-            ],
-            "Duds Mitra":[
-                "Lead Guitar"
-            ],
-            "Hosh Domingo":[
-                "Drums"
-            ]
-        }
-    },
-    {
-        "name":"Last Name Basis",
-        "description":"Acoustic duo and BFFs.",
-        "image":"/images/artists/lastname-basis.jpg",
-        "image strip":"/images/artists/lastname-basis.jpg",
-        "links":[
-            "https://facebook.com/lastnamebasis.ph",
-            "https://twitter.com/lastnamebasisph",
-            "https://www.instagram.com/lastnamebasisph"
-        ],
-        "members":{
-            "Sophia Bello":[
-                "Vocals"
-            ],
-            "Isabel Torres":[
-                "Vocals",
-                "Guitar"
-            ]
-        }
-    },
-    {
-        "name":"Lolo's Polo",
-        "description":"",
-        "image":"/images/artists/lolos-polo.jpg",
-        "image strip":"/images/artists/lolos-polo.jpg",
-        "contact":[
-            "0917 579 1997"
-        ],
-        "links":[
-            "https://facebook.com/TheLolosPolo"
-        ],
-        "members":{
-            "Miko Tendero":[
-                "Lead Guitar"
-            ],
-            "Lino Vergel De Dios":[
-                "Vocals",
-                "Guitar"
-            ],
-            "Jamo Fevidal":[
-                "Drums"
-            ],
-            "Nat Sundiang":[
-                "Bass",
-                "Vocals"
-            ]
-        }
-    },
-    {
-        "name":"Mondays at 4",
-        "description":"Forming on a certain day of the week, at a very specific time, Mondays at 4 is a 6-piece Pop-Rock band, that enjoys jokes, making fun of each other, and creating slightly sad, but not too sad, songs that we want people to relate to and enjoy.",
-        "image":"/images/artists/mondays-at-4.jpg",
-        "image strip":"/images/artists/mondays-at-4.jpg",
-        "links":[
-            "https://facebook.com/monkeysat4",
-            "https://twitter.com/monkeysat4",
-            "https://soundcloud.com/mondays-at-4"
-        ],
-        "members":{
-            "Pancho Santos":[
-                "Drums"
-            ],
-            "Koi Calleja":[
-                "Lead Vocals"
-            ],
-            "PJ Roxas":[
-                "Guitar"
-            ],
-            "Cyril Morales":[
-                "Guitar"
-            ],
-            "Mio Garcia":[
-                "Bass Guitar"
-            ],
-            "MC Monserrat":[
-                "Keyboard"
-            ]
-        }
-    },
-    {
-        "name":"Our Inflatable Friends",
-        "description":"Our Inflatable Friends is a pop band that mixes indie rock, ambient, dream pop and many other genre influences to make up their own unique sound.",
-        "image":"/images/artists/oif.jpg",
-        "image strip":"/images/artists/oif.jpg",
-        "links":[
-            "https://facebook.com/ourinflatablefriends",
-            "https://twitter.com/oifmnl",
-            "https://www.instagram.com/ourinflatablefriends"
-        ],
-        "members":{
-            "Gail Viaje":[
-                "Vocals"
-            ],
-            "China Principe":[
-                "Bass",
-                "Backing Vocals"
-            ],
-            "Jamo Fevidal":[
-                "Drums"
-            ],
-            "Jeric Santos":[
-                "Guitar"
-            ]
-        }
-    },
-    {
-        "name":"Suits and Sepia",
-        "description":"medyo blues. medyo jazz. medyo rock. shur good time",
-        "image":"/images/artists/suits-and-sepia.jpg",
-        "image strip":"/images/artists/suits-and-sepia.jpg",
-        "contact":[
-            "0917 878 0564"
-        ],
-        "links":[
-            "https://facebook.com/suitsandsepia",
-            "https://soundcloud.com/suitsandsepia"
-        ],
-        "members":{
-            "Michael Heraldo":[
-                "Guitar"
-            ],
-            "Erj Gatdula":[
-                "Drums"
-            ],
-            "Joshe Tiu":[
-                "Saxophone"
-            ],
-            "Alex Laohu":[
-                "Bass"
-            ],
-            "Cheska Rebosa":[
-                "Keyboard"
-            ],
-            "Sabrina Basilio":[
-                "Vocals"
-            ],
-            "Morritz Abella":[
-                "Vocals"
-            ],
-            "Moji Abella":[
-                "Vocals"
-            ],
-            "Anton De La Torre":[
-                "Guitar"
-            ]
         }
     },
     {
@@ -410,31 +72,109 @@
         }
     },
     {
-        "name":"Morobe",
-        "description":"Morobe is a 6-piece band formed early 2018. The name “Morobe” comes from the province in Papua New Guinea where their lead singer, Laean, grew up in. They describe their sound as a fusion of RnB, blues, soul, and a little bit of pop here and there.",
+        "name":"Clamshell Boxes",
+        "description":"A 5-piece indie-pop band infused with blues, soul and ballads, The Clamshell Boxes invites their listeners to embrace the emotions they encounter along with the experiences they will face as life goes on.",
+        "image":"/images/artists/clamshellboxes.jpg",
+        "image strip":"/images/artists/clamshellboxes.jpg",
+        "contact":["0917 303 0391"],
+        "links":["https://www.facebook.com/TheClamshellBoxesBand",
+                 "https://twitter.com/The_CBX?s=09",
+                 "https://instagram.com/the_cbx",
+                 "https://soundcloud.com/clamshell-boxes"],
+        "members": {"Abe Abueta" : ["Bass", "Vocals"],
+                    "Ivan Cruz" : ["Saxophone"],
+                    "Babu Dadap" : ["Lead Guitar", "Vocals"],
+                    "Just Mosquera" : ["Drums"],
+                    "Ryan Orlas" : ["Rhythm Guitar", "Vocals"]
+        }
+    },
+    {
+        "name":"Great Dane",
+        "description":"Composed of members from Manila and Singapore, The Great Dane is a four-piece band that fuses modern soul, funky blues, and alternative rock.",
+        "image":"/images/artists/GreatDane.jpg",
+        "image strip":"/images/artists/GreatDane.jpg",
+        "contact":["0945 113 5744"],
+        "links":["https://www.facebook.com/thegreatdaneph/",
+                 "https://www.open.spotify.com/artist/0kBu4TScyrcXugROuOFkqe?si=M-hBghhlS-GZE8NUrqjsZg"],
+        "members": {"Chris Anzanza" : ["Vocals"],
+                    "Brenan Ng" : ["Guitar"],
+                    "Christian Ng" : ["Drums"],
+                    "Joaquin Reyes" : ["Bass"]
+        }
+    },
+    {
+        "name":"Lagoon",
+        "description":"Lagooon started out in late 2017 between rhythm guitarist Adrian Dy, vocalist Dil Bukuhan, lead guitarist Juan Aruego, and drummer Rau Layug, high school friends who were looking for a platform to share the joy of making and playing music. Three years after their first jam session in Rau's bedroom, with the addition of bassist Randy Begtang, the Manila-based band has steadily built its own image and amassed a following that continues to grow, performing in all sorts of events around Metro Manila. <br /> As a group with musical tastes that constantly grows and evolves, Lagooon's alternative indie-rock sound has been further influenced by jazz, pop, hip-hop, R&B and shoegaze, among others. This has led to their distinct, lively tone that has been accentuated with sentimental lyrics and groovy riffs.<br /> The boys, along with their mates in Kennedy and Lucy Dee, formed RausHaus Records in the summer of 2020. Here, they'll be releasing their first single, 'Oceanside', a song that reminisces what summer could've been like for them and their friends as high school graduates.",
         "image":"/images/artists/default.jpg",
         "image strip":"/images/artists/default.jpg",
         "links":[
-
+            "https://soundcloud.com/lago0on",
+            "https://twitter.com/lagooon3",
+            "https://www.facebook.com/lagooon3"
         ],
-        "members":{
-            "Laen Angeles":[
-                "Vocals"
-            ],
-            "Paul Binag":[
-                "Keyboard"
-            ],
-            "Hoshaiah Domingo":[
+        "members": {
+            "Rau Layug" : [
                 "Drums"
             ],
-            "Luigi Montelibano":[
-                "Bass"
-            ],
-            "Babu Dadap":[
+            "Adi Dy" : [
                 "Guitar"
             ],
-            "John Yodong":[
-                "Sax"
+            "Randy Begtang" : [
+                "Bass Vocals"
+            ],
+            "Juan Aruego" : [
+                "Guitar"
+            ],
+            "Dil Bukuhan" : [
+                "Vocals Piano"
+            ]
+        }
+    },
+    {
+        "name":"Lucy Dee",
+        "description":"From rehearsing in school corridors, to performing in front of large crowds amassing thousands of Soundcloud plays, Lucy Dee has come a long way since their inception back in 2017. <br /> With all four members coming from different musical backgrounds hailing from indie, metal, classic rock, pop, and R&B, Lucy Dee is able to write and produce soulful indie rock music, all while integrating each member's unique tastes and sensibilities. Since their formation, the boys have already racked up a ton of experience in the local music scene, having already played gigs in various bars, weddings, debuts, school fairs, and contests all around Metro Manila.",
+        "image":"/images/artists/lucydee.jpg",
+        "image strip":"/images/artists/lucydee.jpg",
+        "links":[
+            "https://www.instagram.com/lucydee_ph/",
+            "https://www.facebook.com/LucyDeePH",
+            "https://twitter.com/LucyDeePH",
+            "https://soundcloud.com/lucy_deee",
+            "https://open.spotify.com/artist/2TqgiLuMLtJbOWt5TURpME?si=fBZe3PGbQ3m16ozyoaiAow"
+        ],
+        "members": {
+            "Gabe Ocampo" : [
+                "Vocals",
+                "Rhythm Guitar - ADMU"
+            ],
+            "Lance Calanog" : [
+                "Lead Guitar - ADMU"
+            ],
+            "Robi Guzman" : [
+                "Bass"
+            ],
+            "Paul Roxas" : [
+                "Drums"
+            ]
+        }
+    },
+    {
+        "name":"NGL",
+        "description":"NGL (not gonna lie) is an alternative-pop duo that has emerged from the depths of the Katipunan traffic. On the left side of the road comes the pop-fueled experimental scientist/movie character, Mika Santelices, and on the right side is the composed, rock-inspired, all-around-chill-dude, Q Ilagan. Their sounds may clash at one point but the outcome is unapologetically honest.",
+        "image":"/images/artists/default.jpg",
+        "image strip":"/images/artists/default.jpg",
+        "members": {
+            "Q Ilagan" : [
+                "Vocals",
+                "Bass",
+                "Keys",
+                "Guitars",
+                "Percussion - ADMU"
+            ],
+            "Mika Santelices" : [
+                "Vocals",
+                "Keys",
+                "Percussion"
             ]
         }
     },
@@ -444,9 +184,7 @@
         "image":"/images/artists/seizure-salad.jpg",
         "image strip":"/images/artists/seizure-salad.jpg",
         "links":[
-            "https://facebook.com/seizuresalad12345",
-            "https://www.instagram.com/seizuresalad12345",
-            "https://soundcloud.com/seizure_salad_ph"
+            ""
         ],
         "members":{
             "Jack Castañeda":[
@@ -490,6 +228,48 @@
                 "Guitar"
             ],
             "Julian Savadera":[
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "name":"Suits and Sepia",
+        "description":"medyo blues. medyo jazz. medyo rock. shur good time",
+        "image":"/images/artists/suits-and-sepia.jpg",
+        "image strip":"/images/artists/suits-and-sepia.jpg",
+        "contact":[
+            "0917 878 0564"
+        ],
+        "links":[
+            "https://facebook.com/suitsandsepia",
+            "https://soundcloud.com/suitsandsepia"
+        ],
+        "members":{
+            "Michael Heraldo":[
+                "Guitar"
+            ],
+            "Erj Gatdula":[
+                "Drums"
+            ],
+            "Joshe Tiu":[
+                "Saxophone"
+            ],
+            "Alex Laohu":[
+                "Bass"
+            ],
+            "Cheska Rebosa":[
+                "Keyboard"
+            ],
+            "Sabrina Basilio":[
+                "Vocals"
+            ],
+            "Morritz Abella":[
+                "Vocals"
+            ],
+            "Moji Abella":[
+                "Vocals"
+            ],
+            "Anton De La Torre":[
                 "Guitar"
             ]
         }
@@ -543,6 +323,91 @@
                 "Vocals"
             ],
             "Heinz Nicolo Viray":[
+                "Drums"
+            ]
+        }
+    },
+    {
+        "name":"Tokyo Escape",
+        "description":"Tokyo Escape is a 4-piece punk band with roots in emo, hardcore, and indie rock. Based in Rizal, formed in 2019.",
+        "image":"/images/artists/tokyoescape.jpg",
+        "image strip":"/images/artists/tokyoescape.jpg",
+        "links":[
+            "https://www.facebook.com/tokyoescape.ph",
+            "https://www.youtube.com/channel/UCp0TMgj3u1f5TYzy-jN8CJw",
+            "https://soundcloud.com/tokyoescapeph",
+            "https://open.spotify.com/artist/7yGz0Iya3PTNTr7u7n6rP0?si=gLEITRpFQFqt9bjDfg648Q&dl_branch=1"
+
+        ],
+        "members": {
+            "Z Pineda" : [
+                "Bass",
+                "Sub-Vocals"
+            ],
+            "Adam Martinez" : [
+                "Sampler",
+                "Keyboard",
+                "Percussion"
+            ],
+            "Shawn Reyes" : [
+                "Guitar",
+                "Vocals"
+            ],
+            "Andre Figuracion" : [
+                "Drums"
+            ]
+        }
+    },
+    {
+        "name":"Wonky Donkey",
+        "description":"Goofy, Wonky, Donkey.",
+        "image":"/images/artists/wonkydonky.jpg",
+        "image strip":"/images/artists/wonkydonky.jpg",
+        "links":[
+            "https://www.instagram.com/_wonkydonkey/"
+        ],
+        "members": {
+            "Juami Alcazar" : [
+                "Vocals",
+                "Guitars"
+            ],
+            "Nathan Barlis" : [
+                "Keyboard"
+            ],
+            "Manu Dumayas" : [
+                "Bass"
+            ],
+            "Hans Reyes" : [
+                "Drums"
+            ]
+        }
+    },
+    {
+        "name":"Yakal Street",
+        "description":"Yakal Street is a six-piece band based in Manila. The group is composed of students who all came from the same high school; Lourdes School of Mandaluyong. They started playing music together for fun in school however, in the year 2018, they finally decided to make things official by forming a band. Despite of being beginners, Yakal Street has already performed for numerous intra-school events.",
+        "image":"/images/artists/yakalstreet.png",
+        "image strip":"/images/artists/yakalstreet.png",
+        "links":[
+            "https://www.facebook.com/yakalstreetmusic"
+        ],
+        "members": {
+            "Ross Batacan" : [
+                "Vocals"
+            ],
+            "Raul Jarod Conanan" : [
+                "Bass"
+            ],
+            "Nikos Alcala" : [
+                "Lead Guitar"
+            ],
+            "Justin De Leon" : [
+                "Rhythm Guitar"
+            ],
+            "Julio Padilla" : [
+                "Vocals",
+                "Keyboard"
+            ],
+            "Gabriel Abad" : [
                 "Drums"
             ]
         }

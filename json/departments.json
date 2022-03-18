@@ -1,5 +1,6 @@
 [
     {
+        "image":"/images/about/departments/cb_am.png",
         "name":"Artist Management (AM)",
         "description":"Artists Management is a department devoted to the wholesome development of AMP's musicians in order to bring out the best in its members, not just in skill but also in work ethic, attitude, and professionalism. AM challenges its members to do more and be more as musicians through workshops, jam sessions, live performances, and much more.",
         "officers":[
@@ -7,17 +8,18 @@
                 "name":"Emilio Anton T. Bello (AM Head)"
             },
             {
-                "name":"Luis Alfonso R. Montales (Soloist Artist Coordinator Head)"
+                "name":"Elizabeth S. Ilagan (Soloist Artist Coordinator Head)"
             },
             {
-                "name":"Luigi Antonio F. Caluag (SE Head)"
+                "name":"Josemaria Y. Layug III (SE Head)"
             },
             {
-                "name":"Miguel Luis P. Del Rosario (Band Artist Coordinator)"
+                "name":"Juan Emmanuel D. Aruego (Band Artist Coordinator)"
             }
         ]
     },
     {
+        "image":"/images/about/departments/cb_dd.png",
         "name":"Design (DD)",
         "description":"The Design Department houses all of the visual artists of AMP. They give the organization a stronger visual identity through its posters, logos, album covers, and other paraphernalia.",
         "officers":[
@@ -33,24 +35,26 @@
         ]
     },
     {
+        "image":"/images/about/departments/cb_dp.png",
         "name":"Documentations &amp; Publications (DP)",
         "description":"The Documentation &amp; Publications department houses all of AMP's photographers, writers and videographers. They commemorate the experience that AMP creates. In short, they make history.",
         "officers":[
             {
-                "name":"Martha Isabel C. Pangilinan (DP Head)"
+                "name":"Mateo Jacob S. Tambunting (DP Head)"
             },
             {
-                "name":"Joshua Martin Villanueva (Videography Deputy)"
+                "name":"Matthew Eli L. Dizon (Videography Deputy)"
             },
             {
-                "name":"Carlo Onglatco Jardeleza (Photography Deputy)"
+                "name":"Alfonso Domenico Q. Villaraza (Photography Deputy)"
             },
             {
-                "name":"Arnaldo Ariston D. Paguio (Writing Deputy)"
+                "name":"Beatrice Louise G. Santillan (Writing Deputy)"
             }
         ]
     },
     {
+        "image":"/images/about/departments/cb_ss.png",
         "name":"Sales &amp; Sponsorships (S&amp;S)",
         "description":"The Sales and Sponsorships department is the business-minded side of the organization that aims to raise revenues and exposure necessary to launch the organization's projects. Particularly, the department is in charge of doing fundraisers, producing merchandise, and expanding corporate relations to support the organization's goal in spreading music.",
         "officers":[
@@ -66,6 +70,7 @@
         ]
     },
     {
+        "image":"/images/about/departments/cb_spp.png",
         "name":"Strategic Planning of Promotions (SPP)",
         "description":"The Strategic Planning of Promotions Department (SPP) aims to maintain the public image of the organization through the management and development of the promotion of AMP’s output through its respective social media platforms (Facebook, Twitter, Instagram, Spotify), and strategically determine the status of the organization through the use of marketing research efforts.",
         "officers":[
