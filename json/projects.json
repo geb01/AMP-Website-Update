@@ -50,7 +50,7 @@
         ]
     },
     {
-        "image": "/images/about/projs/tube.png",
+        "iframe": "https://tube.ateneomusicianspool.com/",
         "name": "AMPlitube",
         "description": "Tube is AMP’s online magazine which serves as one of its main hubs for innovative and creative content, recently moving from print to a digital platform. Tube features all forms of content surrounding music and music discourse.",
         "heads": [{
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "image": "/images/about/projs/amplugged.jpeg",
+        "iframe": "https://www.youtube.com/embed/RB6cuBPI-IA",
         "name": "AMPlugged",
         "description": "AMPlugged is AMP's collection of videos that showcase the amazing talented people in AMP plus some behind-the-scene clips.",
         "heads": [{

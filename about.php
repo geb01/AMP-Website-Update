@@ -181,10 +181,14 @@
 			<div class='feature-wrapper'><?php
 				$id = 0;
 				foreach ($project as &$proj) {
-					$image = $proj['image'];
-					if ($image) $image = "src='$image'"; ?>
+					$image = $proj['image'] ?? null;
+					$iframe = $proj['iframe'] ?? null;
+					if ($image) $image = "class='feature-pic' src='$image'"; 
+					if ($iframe) $iframe = "src='$iframe'"; ?>
 					<div class='feature-display' index='<?php echo $id++; ?>'>
-						<img class='feature-pic' <?php echo $image; ?>>
+					<?php if ($image) echo "<img class='feature-pic' <?php echo $image; ?>>";
+						if ($iframe) echo "<iframe class='feature-vid' <?php echo $iframe; ?> title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'></iframe>";
+						?>
 						<div class='feature-description'>
 							<div><?php
 								$heads = array();
