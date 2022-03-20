@@ -3,7 +3,7 @@
         "image":"/images/about/eb/president.png",
         "member":{
             "name":"Kaelen Andrea S. Reyes",
-            "year":2017,
+            "year":2018,
             "course":"AB COM"
         },
         "position":"President",
@@ -13,7 +13,7 @@
         "image":"/images/about/eb/evp_admin.png",
         "member":{
             "name":"Hillary Anne T. Regalado",
-            "year":2018,
+            "year":2019,
             "course":"BS CTM"
         },
         "position":"Executive VP for Administration ",
@@ -23,27 +23,17 @@
         "image":"/images/about/eb/evp_intaffairs.png",
         "member":{
             "name":"Eloiza Glen M. Dirige",
-            "year":2017,
+            "year":2018,
             "course":"AB COM"
         },
         "position":"Executive VP for Internal Affairs",
         "description":"The VP for Internal Affairs takes care of all relations within the organization. She manages and attends to all Executive and Central Board officers' concerns and general welfare within the organization, manages and monitors the execution of Executive and Central Board and departmental Codes of Internal Procedures, maintains communications with the Central Board regarding details of all ongoing internal projects, plans and executes programs for leadership formation catered to the members of the organization."
     },
     {
-        "image":"/images/about/eb/vp_memdev.jpg",
-        "member":{
-            "name":"Pancho Enrique M. Santos",
-            "year":2016,
-            "course":"AB MEC"
-        },
-        "position":"VP for Member Development",
-        "description":"The VP for Member Development coordinates with all Central Board Department Heads with formulating the different training curriculum of each department, plans and executes interdepartmental projects,, monitors and tracks the execution of all training programs, including mentorship and workshops of the different departments, and coordinates with department heads to create workshops catered to teaching members the essential and relative skills and competencies of each department."
-    },
-    {
         "image":"/images/about/eb/vp_projman.png",
         "member":{
             "name":"Sophia Ysabelle N. Policarpio",
-            "year":2018,
+            "year":2019,
             "course":"BS CTM"
         },
         "position":"VP for Project Management",
@@ -53,7 +43,7 @@
         "image":"/images/about/eb/vp_externals.png",
         "member":{
             "name":"Neale Christian T. Tiu",
-            "year":2018,
+            "year":2019,
             "course":"BS PSY"
         },
         "position":"VP for External Affairs",
@@ -63,7 +53,7 @@
         "image":"/images/about/eb/avp_externals.png",
         "member":{
             "name":"Julliana Ezra B. Fernandez",
-            "year":2018,
+            "year":2019,
             "course":"BS LM"
         },
         "position":"AVP for External Affairs",
@@ -73,7 +63,7 @@
         "image":"/images/about/eb/vp_comms.png",
         "member":{
             "name":"Kelsey Danielle B. Escareal",
-            "year":2018,
+            "year":2019,
             "course":"BFA ID"
         },
         "position":"VP for Communications",
@@ -83,7 +73,7 @@
         "image":"/images/about/eb/vp_finance.png",
         "member":{
             "name":"Joseph Heindrick H. Mellizal",
-            "year":2017,
+            "year":2018,
             "course":"BS ME"
         },
         "position":"VP for Finance",
@@ -93,7 +83,7 @@
         "image":"/images/about/eb/avp_finance.png",
         "member":{
             "name":"Audrey Kimberly W. Cabrera",
-            "year":2017,
+            "year":2018,
             "course":"AB MEC"
         },
         "position":"AVP for Finance",

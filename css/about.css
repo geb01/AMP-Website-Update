@@ -58,7 +58,7 @@
 }
 
 #mission,
-#vision {
+#vision, #core-wrapper {
   width: 50%;
   padding: 10px 20px;
 
@@ -67,6 +67,12 @@
 
 #mission-vision p {
   margin-bottom: 10px;
+}
+#core-wrapper{
+  margin-top: 100px;
+}
+#core-wrapper p{
+  text-align: justify;
 }
 
 #mission h1 {
@@ -90,9 +96,6 @@
   text-align: justify;
 }
 
-.wrapper-core {
-    padding-top: 150px;
-}
 
 .transition {
   height: auto;
@@ -117,6 +120,8 @@
 	margin-bottom: auto;
 	position: relative;
 }
+
+
 
 .transition h1 {
   display: inline;
@@ -144,6 +149,7 @@
     -moz-transition: 0.5s ease;
     -webkit-transition: 0.5s ease;
 }
+
 
 .transition p {
   padding: 15px;
